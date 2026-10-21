@@ -1,0 +1,1060 @@
+{
+  "status": "completed",
+  "current_index": 150,
+  "total_target": 150,
+  "successful": 42,
+  "failed": 108,
+  "current_topic": "Semua video batch telah selesai diproduksi!",
+  "history": [
+    {
+      "index": 1,
+      "topic": "Kenapa Paus Biru Punya Jantung Sebesar Mobil Golf dan Lidah Seberat Gajah?",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Jantung_Sebesar_Mobil_Golf_Paus_Biru_Bik_1791638955.mp4",
+      "status": "success",
+      "time": "2026-10-10 21:41:06"
+    },
+    {
+      "index": 2,
+      "topic": "Kloning Suara AI: Cara Penipu Meniru Suara Kerabatmu Hanya dari Rekaman 3 Detik",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_BAHAYA_AI_Kloning_Suara_Jadi_Kamu_Hanya__1791639669.mp4",
+      "status": "success",
+      "time": "2026-10-10 21:42:49"
+    },
+    {
+      "index": 3,
+      "topic": "Rahasia Ruang Tersembunyi di Bawah Kaki Sphinx dan Piramida Agung Giza",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_RAHASIA_TERGELAP_Bawah_Kaki_SPHINX__PIRA_1791639772.mp4",
+      "status": "success",
+      "time": "2026-10-10 21:44:16"
+    },
+    {
+      "index": 4,
+      "topic": "Mengapa Kita Mengalami Deja Vu? Penjelasan Sains di Balik Sensasi Memori Palsu",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_MISTERI_DEJA_VU_TERUNGKAP_Otakmu_Lagi_Er_1791640351.mp4",
+      "status": "success",
+      "time": "2026-10-10 21:54:18"
+    },
+    {
+      "index": 5,
+      "topic": "Kenapa Kita Otomatis Menguap Saat Melihat Orang Lain Menguap? Fakta Respon Empati",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_KENAPA_KITA_IKUTAN_MENGUAP_FAKTA_OTAK_EM_1791640461.mp4",
+      "status": "success",
+      "time": "2026-10-10 21:56:07"
+    },
+    {
+      "index": 6,
+      "topic": "Misteri Lubang Hitam: Waktu yang Melambat dan Tubuh yang Merenggang Seperti Mie",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Misteri_Lubang_Hitam_Kamu_Jadi_Mie_Insta_1791640570.mp4",
+      "status": "success",
+      "time": "2026-10-10 21:57:46"
+    },
+    {
+      "index": 7,
+      "topic": "Serangan Juice Jacking: Kabel Charger Umum yang Diam-diam Menyedot Data HP-mu",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_AWAS_Kabel_Charger_Gratis_Ini_Diam-diam__1791640669.mp4",
+      "status": "success",
+      "time": "2026-10-10 21:59:18"
+    },
+    {
+      "index": 8,
+      "topic": "Tragedi Perpustakaan Alexandria: Ribuan Tahun Pengetahuan Manusia yang Hilang Terbakar",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Tragedi_Alexandria_Ribuan_Tahun_Pengetah_1791640761.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:00:52"
+    },
+    {
+      "index": 9,
+      "topic": "Efek Mandela: Mengapa Jutaan Orang di Seluruh Dunia Mengingat Fakta yang Sebenarnya Salah?",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Efek_Mandela_Rahasia_Memori_Kolektif_yan_1791640855.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:02:55"
+    },
+    {
+      "index": 10,
+      "topic": "Apa yang Sebenarnya Terjadi di Dalam Syaraf Saat Kaki Kita Mengalami Kesemutan Parah?",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_RAHASIA_KESEMUTAN_Apa_yang_Terjadi_di_Da_1791640978.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:04:41"
+    },
+    {
+      "index": 11,
+      "topic": "Planet HD 189733b: Tempat di Mana Turun Hujan Kaca Meleleh dengan Angin 7000 km/jam",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Planet_HD_189733b_Hujan_Kaca_Meleleh_700_1791641084.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:06:13"
+    },
+    {
+      "index": 12,
+      "topic": "Jebakan QR Code Palsu (Quishing) di Tempat Parkir dan Restoran Mewah",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_BAHAYA_SCAN_QR_CODE_INI_SALDO_LUDES_SEKE_1791641176.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:07:46"
+    },
+    {
+      "index": 13,
+      "topic": "Mekanisme Antikythera: Komputer Analog Rumit dari 2000 Tahun Lalu yang Bikin Bingung Ilmuwan",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_KOMPUTER_2000_TAHUN_LALU_Bikin_Ilmuwan_G_1791641269.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:09:19"
+    },
+    {
+      "index": 14,
+      "topic": "Alasan Ilmiah Kenapa Otak Kita Sangat Suka Menunda Pekerjaan (Prokrastinasi)",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Otak_Suka_Menunda_Fakta_Ilmiah_PR_1791641363.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:10:53"
+    },
+    {
+      "index": 15,
+      "topic": "Kekuatan Luar Biasa Asam Lambung Manusia: Cukup Kuat untuk Menghancurkan Logam Seng",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kekuatan_GILA_Asam_Lambung_Bisa_Lelehkan_1791641456.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:12:26"
+    },
+    {
+      "index": 16,
+      "topic": "Apa yang Terjadi pada Bumi Jika Oksigen Menghilang Selama 5 Detik Saja?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 503 UNAVAILABLE. {'error': {'code': 503, 'message': 'This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.', 'status': 'UNAVAILABLE'}}",
+      "time": "2026-10-10 22:12:56"
+    },
+    {
+      "index": 17,
+      "topic": "Bahaya File APK Undangan Pernikahan yang Menguras Saldo M-Banking Tanpa Ketahuan",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Jangan_Buka_Undangan_Nikah_Ini_Saldo_Len_1791641581.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:17:15"
+    },
+    {
+      "index": 18,
+      "topic": "Kota Bawah Tanah Derinkuyu: Bunker Kuno Sedalam 85 Meter yang Menampung 20.000 Orang",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bunker_Kuno_Bawah_Tanah_Sedalam_85_Meter_1791641838.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:20:24"
+    },
+    {
+      "index": 19,
+      "topic": "Fenomena Lucid Dream: Cara Otak Kita Sadar dan Mengendalikan Alur Mimpi Seperti Sutradara",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Cara_Otak_Sadar__Kendalikan_Mimpi_Sepert_1791642027.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:23:28"
+    },
+    {
+      "index": 20,
+      "topic": "Kenapa Manusia Tidak Bisa Menggelitik Diri Sendiri? Rahasia Sistem Sensorik Cerebellum",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Gak_Bisa_Geli_Sendiri_Rahasia_Ota_1791642211.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:27:50"
+    },
+    {
+      "index": 21,
+      "topic": "Misteri Titik Nemo: Tempat Tersepi di Samudra Bumi yang Lebih Dekat ke Stasiun Luar Angkasa",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Tempat_Paling_Sepi_di_Bumi_Manusia_Terde_1791642473.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:31:21"
+    },
+    {
+      "index": 22,
+      "topic": "Kenapa Kamu Wajib Mematikan Bluetooth di Keramaian Mal dan Stasiun Kereta",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bahaya_Rahasia_Bluetooth_di_Keramaian_Sh_1791642684.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:35:19"
+    },
+    {
+      "index": 23,
+      "topic": "Misteri Pasukan Terakota Qin Shi Huang: Ribuan Prajurit Tanah Liat dengan Wajah Berbeda",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Misteri_8000_Wajah_Prajurit_Terakota_Tak_1791642922.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:39:31"
+    },
+    {
+      "index": 24,
+      "topic": "Mengapa Mendengarkan Musik Tertentu Bisa Membuat Bulu Kuduk Merinding? (Frisson)",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Lagu_Tertentu_Bikin_Bulu_Kuduk_Me_1791643174.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:42:40"
+    },
+    {
+      "index": 25,
+      "topic": "Berapa Lama Otak Manusia Masih Tetap Sadar Setelah Jantung Berhenti Berdetak?",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Berapa_Lama_Otakmu_Sadar_Saat_Jantung_Be_1791643363.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:45:31"
+    },
+    {
+      "index": 26,
+      "topic": "Kenapa Air Laut yang Melimpah Tidak Pernah Habis Tertelan Masuk ke Dalam Perut Bumi?",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Ke_Mana_Perginya_Air_Laut_yang_Ditelan_B_1791643534.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:48:10"
+    },
+    {
+      "index": 27,
+      "topic": "Evil Twin Wi-Fi: Hacker Membuat Nama Wi-Fi Kafe Palsu untuk Menjebak Password Pengunjung",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_JANGAN_Sembarangan_Konek_Wi-Fi_Kafe_Ini__1791643693.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:50:55"
+    },
+    {
+      "index": 28,
+      "topic": "Wabah Menari Massal 1518: Ratusan Orang Menari Tanpa Henti Sampai Kehabisan Nafas",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Misteri_Ratusan_Orang_Menari_Sampai_Mati_1791643858.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:55:16"
+    },
+    {
+      "index": 29,
+      "topic": "Efek Dunning-Kruger: Kenapa Orang yang Paling Minim Pengetahuan Sering Merasa Paling Hebat?",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Makin_Gak_Tahu_Makin_Sok_Tahu_Sains_Memb_1791644119.mp4",
+      "status": "success",
+      "time": "2026-10-10 22:59:05"
+    },
+    {
+      "index": 30,
+      "topic": "Kenapa Sidik Jari dan Pola Lidah Setiap Manusia di Muka Bumi Tidak Ada yang Kembar?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 9h36.748907062s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32436s'}]}}",
+      "time": "2026-10-10 22:59:27"
+    },
+    {
+      "index": 31,
+      "topic": "Fakta Gila Planet Saturnus: Kepadatannya Lebih Ringan dari Air dan Bisa Mengapung di Kolam Raksasa",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 9h12.895339678s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32412s'}]}}",
+      "time": "2026-10-10 22:59:51"
+    },
+    {
+      "index": 32,
+      "topic": "Deepfake Video Call: Trik Penipu Meniru Wajah dan Mimik Teman Terdekatmu",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h59m49.007397264s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32389s'}]}}",
+      "time": "2026-10-10 23:00:15"
+    },
+    {
+      "index": 33,
+      "topic": "Misteri Hilangnya Kapal Hantu Mary Celeste di Lautan Lepas Tanpa Jejak Kru",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h59m25.270667709s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32365s'}]}}",
+      "time": "2026-10-10 23:00:38"
+    },
+    {
+      "index": 34,
+      "topic": "Ilusi Pintu Masuk (Doorway Effect): Kenapa Kita Lupa Tujuan Begitu Melangkah Masuk ke Kamar Lain?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h59m1.52617203s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32341s'}]}}",
+      "time": "2026-10-10 23:01:02"
+    },
+    {
+      "index": 35,
+      "topic": "Fakta Super Mata Manusia: Mampu Membedakan Hingga 10 Juta Spektrum Warna Berbeda",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h58m37.923892744s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32317s'}]}}",
+      "time": "2026-10-10 23:01:26"
+    },
+    {
+      "index": 36,
+      "topic": "Misteri Sinar Kosmik: Partikel Berkecepatan Cahaya yang Menembus Tubuh Kita Setiap Detik",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h58m14.137831454s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32294s'}]}}",
+      "time": "2026-10-10 23:01:50"
+    },
+    {
+      "index": 37,
+      "topic": "Cara Hacker Mengetahui Password Rumitmu Hanya dalam Hitungan Detik",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h57m50.386835188s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32270s'}]}}",
+      "time": "2026-10-10 23:02:13"
+    },
+    {
+      "index": 38,
+      "topic": "Batu Raksasa Puma Punku: Teknologi Pemotongan Batu Kuno yang Terlalu Presisi untuk Zamannya",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h57m26.527561058s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32246s'}]}}",
+      "time": "2026-10-10 23:02:37"
+    },
+    {
+      "index": 39,
+      "topic": "Kenapa Otak Kita Otomatis Mencari Pola Wajah Manusia pada Benda Mati? (Pareidolia)",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h57m2.64653768s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32222s'}]}}",
+      "time": "2026-10-10 23:03:01"
+    },
+    {
+      "index": 40,
+      "topic": "Kenapa Bulu Kuduk Kita Merinding Saat Kedinginan atau Takut? (Sisa Evolusi Purba)",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h56m38.769834283s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32198s'}]}}",
+      "time": "2026-10-10 23:03:25"
+    },
+    {
+      "index": 41,
+      "topic": "Bintang Terbesar di Alam Semesta (UY Scuti) yang Bisa Menelan Matahari dan Planet Kita",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h56m15.101992639s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32175s'}]}}",
+      "time": "2026-10-10 23:03:49"
+    },
+    {
+      "index": 42,
+      "topic": "Keyboard Pihak Ketiga: Bahaya Keylogger yang Mencatat Setiap Ketikan PIN dan Passwordmu",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h55m51.44074142s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32151s'}]}}",
+      "time": "2026-10-10 23:04:12"
+    },
+    {
+      "index": 43,
+      "topic": "Naskah Voynich: Buku Kuno Berilustrasi Aneh dengan Bahasa Misterius yang Tak Bisa Diterjemahkan",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h55m27.717983939s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32127s'}]}}",
+      "time": "2026-10-10 23:04:36"
+    },
+    {
+      "index": 44,
+      "topic": "Kekuatan Sugesti Efek Plasebo: Bagaimana Pikiran Bisa Menyembuhkan Tubuh Tanpa Obat",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h55m3.829992607s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32103s'}]}}",
+      "time": "2026-10-10 23:05:00"
+    },
+    {
+      "index": 45,
+      "topic": "Berapa Banyak Bakteri yang Sebenarnya Tinggal dan Menjaga Sistem Imun di Dalam Tubuh Kita?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h54m39.518439964s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32079s'}]}}",
+      "time": "2026-10-10 23:05:24"
+    },
+    {
+      "index": 46,
+      "topic": "Ubur-ubur Turritopsis Dohrnii: Makhluk Laut Ajaib yang Menolak Kematian dan Hidup Abadi",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h54m15.751162648s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32055s'}]}}",
+      "time": "2026-10-10 23:05:48"
+    },
+    {
+      "index": 47,
+      "topic": "Aplikasi Senter dan Kalkulator Palsu yang Menyusupkan Spyware Pengintai Kamera",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h53m51.842912717s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32031s'}]}}",
+      "time": "2026-10-10 23:06:12"
+    },
+    {
+      "index": 48,
+      "topic": "Misteri Runtuhnya Peradaban Zaman Perunggu: Bencana Dahsyat yang Menghapus Bangsa-Bangsa Kuno",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h53m28.054004962s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32008s'}]}}",
+      "time": "2026-10-10 23:06:36"
+    },
+    {
+      "index": 49,
+      "topic": "Fenomena Sleep Paralysis (Ketindihan): Apa yang Sebenarnya Terjadi di Fase REM Otak Kita?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h53m4.254410042s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31984s'}]}}",
+      "time": "2026-10-10 23:06:59"
+    },
+    {
+      "index": 50,
+      "topic": "Kenapa Suara Kita Terdengar Sangat Aneh dan Berbeda Saat Didengarkan Lewat Rekaman?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h52m40.397036964s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31960s'}]}}",
+      "time": "2026-10-10 23:07:23"
+    },
+    {
+      "index": 51,
+      "topic": "Kenapa Logam di Luar Angkasa Bisa Menyatu Otomatis Tanpa Perlu Dilas? (Cold Welding)",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h52m16.623045568s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31936s'}]}}",
+      "time": "2026-10-10 23:07:47"
+    },
+    {
+      "index": 52,
+      "topic": "Bahaya Mengunggah Tiket Pesawat atau Paspor ke Instagram Story",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h51m52.912602819s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31912s'}]}}",
+      "time": "2026-10-10 23:08:11"
+    },
+    {
+      "index": 53,
+      "topic": "Senjata Api Purba Api Yunani (Greek Fire): Senjata Pembakar yang Tak Bisa Dipadamkan Air",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h51m28.943676517s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31888s'}]}}",
+      "time": "2026-10-10 23:08:35"
+    },
+    {
+      "index": 54,
+      "topic": "Bias Konfirmasi: Mengapa Kita Cenderung Hanya Mempercayai Apa yang Ingin Kita Percayai?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h51m5.078876021s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31865s'}]}}",
+      "time": "2026-10-10 23:08:59"
+    },
+    {
+      "index": 55,
+      "topic": "Kenapa Tulang Manusia Empat Kali Lebih Kuat dari Beton Bertulang dalam Menahan Beban?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h50m41.320193921s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31841s'}]}}",
+      "time": "2026-10-10 23:09:22"
+    },
+    {
+      "index": 56,
+      "topic": "Apa yang Terjadi Jika Semua Es di Kutub Mencair Seketika dalam Semalam?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h50m17.626032469s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31817s'}]}}",
+      "time": "2026-10-10 23:09:46"
+    },
+    {
+      "index": 57,
+      "topic": "Solusi Authenticator App: Kenapa Kode SMS 2FA Sudah Tidak Lagi Aman dari Hacker",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h49m53.966219148s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31793s'}]}}",
+      "time": "2026-10-10 23:10:10"
+    },
+    {
+      "index": 58,
+      "topic": "Kutukan Mumi Tutankhamun: Mitos Menakutkan atau Efek Spora Jamur Kuno yang Berbahaya?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h49m30.112430322s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31770s'}]}}",
+      "time": "2026-10-10 23:10:34"
+    },
+    {
+      "index": 59,
+      "topic": "Kenapa Waktu Terasa Berjalan Jauh Lebih Cepat Saat Kita Beranjak Dewasa?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h49m6.277260107s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31746s'}]}}",
+      "time": "2026-10-10 23:10:57"
+    },
+    {
+      "index": 60,
+      "topic": "Apa Fungsi Sebenarnya dari Usus Buntu yang Selama Ini Dianggap Organ Tanpa Guna?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h48m42.560226796s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31722s'}]}}",
+      "time": "2026-10-10 23:11:21"
+    },
+    {
+      "index": 61,
+      "topic": "Misteri Sinyal Radio Misterius Wow! dari Luar Angkasa yang Belum Terpecahkan",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h48m18.795322478s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31698s'}]}}",
+      "time": "2026-10-10 23:11:45"
+    },
+    {
+      "index": 62,
+      "topic": "Social Engineering: Seni Memanipulasi Pikiran Manusia Tanpa Perlu Mengetik Baris Kode",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h47m54.905319612s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31674s'}]}}",
+      "time": "2026-10-10 23:12:09"
+    },
+    {
+      "index": 63,
+      "topic": "Tembok Besar China: Berapa Banyak Orang yang Sebenarnya Membangun Keajaiban Ini?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h47m31.123769574s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31651s'}]}}",
+      "time": "2026-10-10 23:12:33"
+    },
+    {
+      "index": 64,
+      "topic": "Mengapa Kita Bisa Tiba-tiba Melupakan Nama Seseorang 3 Detik Setelah Berkenalan?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h47m7.335884905s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31627s'}]}}",
+      "time": "2026-10-10 23:12:56"
+    },
+    {
+      "index": 65,
+      "topic": "Kenapa Jantung Manusia Bisa Terus Berdetak Meskipun Dikeluarkan dari Rongga Dada?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h46m43.339181116s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31603s'}]}}",
+      "time": "2026-10-10 23:13:20"
+    },
+    {
+      "index": 66,
+      "topic": "Mengapa Suhu di Luar Angkasa Sangat Dingin Padahal Matahari Terbakar Sepanjang Waktu?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h46m19.416774941s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31579s'}]}}",
+      "time": "2026-10-10 23:13:44"
+    },
+    {
+      "index": 67,
+      "topic": "Apa Itu Dark Web dan Bagaimana Data KTP serta NIK Kita Bisa Diperjualbelikan",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h45m55.508868509s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31555s'}]}}",
+      "time": "2026-10-10 23:14:08"
+    },
+    {
+      "index": 68,
+      "topic": "Misteri Stonehenge: Bagaimana Manusia Zaman Purba Memindahkan Batu Seberat 25 Ton?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h45m31.313330103s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31531s'}]}}",
+      "time": "2026-10-10 23:14:32"
+    },
+    {
+      "index": 69,
+      "topic": "Fenomena Call of the Void: Dorongan Mendadak yang Muncul Saat Berdiri di Tepi Jurang",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h45m7.192647207s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31507s'}]}}",
+      "time": "2026-10-10 23:14:57"
+    },
+    {
+      "index": 70,
+      "topic": "Fakta Menakjubkan Kecepatan Bersin Manusia yang Bisa Mencapai 160 Kilometer per Jam",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h44m43.340929768s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31483s'}]}}",
+      "time": "2026-10-10 23:15:20"
+    },
+    {
+      "index": 71,
+      "topic": "Fakta Menakjubkan Jamur Cordyceps: Jamur yang Bisa Mengendalikan Otak Semut Jadi Zombie",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h44m19.384790029s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31459s'}]}}",
+      "time": "2026-10-10 23:15:44"
+    },
+    {
+      "index": 72,
+      "topic": "Tanda-Tanda Tersembunyi Bahwa Layar HP Kamu Sedang Diam-diam Dipantau Orang Asing",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h43m55.625012409s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31435s'}]}}",
+      "time": "2026-10-10 23:16:08"
+    },
+    {
+      "index": 73,
+      "topic": "Pedang Damascus: Rahasia Baja Kuno dengan Pola Air yang Mengandung Carbon Nanotubes",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h43m31.605523017s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31411s'}]}}",
+      "time": "2026-10-10 23:16:32"
+    },
+    {
+      "index": 74,
+      "topic": "Kenapa Otak Manusia Sangat Kecanduan Notifikasi Media Sosial? (Dopamine Loop)",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h43m7.683622528s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31387s'}]}}",
+      "time": "2026-10-10 23:16:56"
+    },
+    {
+      "index": 75,
+      "topic": "Kenapa Kornea Mata Adalah Satu-satunya Bagian Tubuh yang Tidak Memiliki Aliran Darah?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h42m43.718824928s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31363s'}]}}",
+      "time": "2026-10-10 23:17:20"
+    },
+    {
+      "index": 76,
+      "topic": "Kenapa Venus Lebih Panas dari Merkurius Padahal Letaknya Lebih Jauh dari Matahari?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h42m19.724677868s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31339s'}]}}",
+      "time": "2026-10-10 23:17:44"
+    },
+    {
+      "index": 77,
+      "topic": "Kenapa Wi-Fi Gratis di Bandara Tanpa Password Sangat Berbahaya Bagi Rekeningmu",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h41m55.68019975s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31315s'}]}}",
+      "time": "2026-10-10 23:18:08"
+    },
+    {
+      "index": 78,
+      "topic": "Misteri Ekspedisi Dyatlov Pass: Kematian Tragis 9 Pendaki di Pegunungan Ural yang Misterius",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h41m31.761973848s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31291s'}]}}",
+      "time": "2026-10-10 23:18:32"
+    },
+    {
+      "index": 79,
+      "topic": "Efek Penonton (Bystander Effect): Mengapa Makin Banyak Saksi, Makin Lambat Bantuan Datang?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h41m7.288361432s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31267s'}]}}",
+      "time": "2026-10-10 23:18:56"
+    },
+    {
+      "index": 80,
+      "topic": "Apa yang Menyebabkan Bunyi Gemeretak Saat Kita Membunyikan Sendi Jari Tangan?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h40m43.354396569s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31243s'}]}}",
+      "time": "2026-10-10 23:19:20"
+    },
+    {
+      "index": 81,
+      "topic": "Misteri Palung Mariana: Tekanan Air Sedalam 11 Kilometer yang Mampu Meremukkan Kapal Baja",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h40m19.493511386s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31219s'}]}}",
+      "time": "2026-10-10 23:19:44"
+    },
+    {
+      "index": 82,
+      "topic": "SIM Swapping: Bagaimana Hacker Mengambil Alih Nomor HP-mu Tanpa Memegang Kartu Fisik",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h39m55.595184105s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31195s'}]}}",
+      "time": "2026-10-10 23:20:08"
+    },
+    {
+      "index": 83,
+      "topic": "Bagaimana Bangsa Romawi Kuno Membuat Beton Super Kuat yang Tahan Air Ribuan Tahun?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h39m31.742297687s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31171s'}]}}",
+      "time": "2026-10-10 23:20:32"
+    },
+    {
+      "index": 84,
+      "topic": "Trik Psikologis Foot-in-the-Door: Cara Halus Mempengaruhi Orang untuk Menuruti Permintaanmu",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h39m7.62547539s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31147s'}]}}",
+      "time": "2026-10-10 23:20:56"
+    },
+    {
+      "index": 85,
+      "topic": "Kenapa Kita Merasa Pusing Saat Berputar-putar? Rahasia Cairan di Dalam Rumah Siput Telinga",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h38m43.67579092s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31123s'}]}}",
+      "time": "2026-10-10 23:21:20"
+    },
+    {
+      "index": 86,
+      "topic": "Apa yang Terjadi Jika Bumi Berhenti Berputar Selama 1 Detik Saja?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h38m19.729488492s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31099s'}]}}",
+      "time": "2026-10-10 23:21:44"
+    },
+    {
+      "index": 87,
+      "topic": "Kenapa Kamu Tidak Boleh Menyimpan Password Penting di Browser Tanpa Master Password",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h37m55.716888227s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31075s'}]}}",
+      "time": "2026-10-10 23:22:08"
+    },
+    {
+      "index": 88,
+      "topic": "Kota Atlantis: Fakta Sejarah Nyata Dibalik Catatan Filsuf Plato",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h37m31.870082288s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31051s'}]}}",
+      "time": "2026-10-10 23:22:32"
+    },
+    {
+      "index": 89,
+      "topic": "Kenapa Kita Sering Memikirkan Percakapan Memalukan dari Masa Lalu Tepat Sebelum Tidur?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h37m8.078557494s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31028s'}]}}",
+      "time": "2026-10-10 23:22:56"
+    },
+    {
+      "index": 90,
+      "topic": "Kenapa Warna Darah Manusia Berwarna Merah Cerah Saat Terkena Oksigen?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h36m44.214312334s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '31004s'}]}}",
+      "time": "2026-10-10 23:23:19"
+    },
+    {
+      "index": 91,
+      "topic": "Fakta Menakjubkan Honey Badger: Hewan Paling Tak Kenal Takut yang Kebal Racun Kobra",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h36m20.314965261s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30980s'}]}}",
+      "time": "2026-10-10 23:23:43"
+    },
+    {
+      "index": 92,
+      "topic": "Celah Keamanan Smarthome: Bagaimana Kamera CCTV Rumah Bisa Diretas dari Jarak Jauh",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h35m56.518465062s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30956s'}]}}",
+      "time": "2026-10-10 23:24:07"
+    },
+    {
+      "index": 93,
+      "topic": "Misteri Patung Moai Pulau Paskah: Tubuh Raksasa Terkubur di Bawah Tanah yang Mengejutkan",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h35m32.440879575s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30932s'}]}}",
+      "time": "2026-10-10 23:24:31"
+    },
+    {
+      "index": 94,
+      "topic": "Fenomena Tetris Effect: Kenapa Gambar Game Masih Terbayang-bayang di Mata Saat Terpejam?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h35m8.480865321s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30908s'}]}}",
+      "time": "2026-10-10 23:24:55"
+    },
+    {
+      "index": 95,
+      "topic": "Berapa Panjang Pembuluh Darah di Tubuh Manusia Jika Dibentangkan? (Keliling Bumi 2 Kali!)",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h34m44.564677667s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30884s'}]}}",
+      "time": "2026-10-10 23:25:19"
+    },
+    {
+      "index": 96,
+      "topic": "Misteri Materi Gelap (Dark Matter): 85% Semesta yang Tak Bisa Dilihat Tapi Nyata Ada",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h34m20.760878645s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30860s'}]}}",
+      "time": "2026-10-10 23:25:43"
+    },
+    {
+      "index": 97,
+      "topic": "Penipuan Modus Salah Transfer Uang yang Memaksa Korban Terjerat Pinjol Ilegal",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h33m57.008354672s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30837s'}]}}",
+      "time": "2026-10-10 23:26:07"
+    },
+    {
+      "index": 98,
+      "topic": "Perang Troya: Fakta Arkeologi di Balik Legenda Kuda Kayu Raksasa",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h33m33.033732808s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30813s'}]}}",
+      "time": "2026-10-10 23:26:31"
+    },
+    {
+      "index": 99,
+      "topic": "Sindrom Impostor: Kenapa Orang-Orang Sukses Sering Merasa Diri Mereka Hanyalah Penipu?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h33m9.224335548s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30789s'}]}}",
+      "time": "2026-10-10 23:26:54"
+    },
+    {
+      "index": 100,
+      "topic": "Kenapa Otot Jantung Tidak Pernah Merasa Lelah Meskipun Berdetak Seumur Hidup Tanpa Henti?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h32m45.119007595s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30765s'}]}}",
+      "time": "2026-10-10 23:27:19"
+    },
+    {
+      "index": 101,
+      "topic": "Bagaimana Bintang Neutron Sekecil Kota Bisa Berbobot Lebih Berat dari Matahari?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h32m21.220213574s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30741s'}]}}",
+      "time": "2026-10-10 23:27:43"
+    },
+    {
+      "index": 102,
+      "topic": "Skema Robot Trading AI Palsu: Modus Penipuan Finansial Modern yang Menguras Tabungan",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h31m56.936049498s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30716s'}]}}",
+      "time": "2026-10-10 23:28:07"
+    },
+    {
+      "index": 103,
+      "topic": "Misteri Kamar Amber (Amber Room): Ruangan Berlapis Emas yang Lenyap Saat Perang Dunia II",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h31m32.964494612s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30692s'}]}}",
+      "time": "2026-10-10 23:28:31"
+    },
+    {
+      "index": 104,
+      "topic": "Mengapa Otak Kita Sangat Suka Makanan Manis Saat Sedang Mengalami Stres Berat?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h31m9.194550619s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30669s'}]}}",
+      "time": "2026-10-10 23:28:55"
+    },
+    {
+      "index": 105,
+      "topic": "Fakta Menakjubkan Lambung Manusia yang Memperbarui Lapisannya Setiap Tiga Hari Sekali",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h30m45.236764296s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30645s'}]}}",
+      "time": "2026-10-10 23:29:18"
+    },
+    {
+      "index": 106,
+      "topic": "Kenapa Langit di Planet Mars Berwarna Merah di Siang Hari dan Biru Saat Matahari Terbenam?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h30m21.296698855s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30621s'}]}}",
+      "time": "2026-10-10 23:29:42"
+    },
+    {
+      "index": 107,
+      "topic": "Bagaimana AI Bisa Membaca Pola Ketukan Layar HP untuk Menebak PIN Rahasiamu",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h29m57.099589632s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30597s'}]}}",
+      "time": "2026-10-10 23:30:07"
+    },
+    {
+      "index": 108,
+      "topic": "Bagaimana Suku Maya Menghitung Kalender Astronomi Lebih Akurat dari Bangsa Eropa Zaman Dulu?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h29m33.010624248s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30573s'}]}}",
+      "time": "2026-10-10 23:30:31"
+    },
+    {
+      "index": 109,
+      "topic": "Efek Sorotan (Spotlight Effect): Kenapa Kita Selalu Merasa Semua Orang Sedang Memperhatikan Kita?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h29m8.939459414s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30548s'}]}}",
+      "time": "2026-10-10 23:30:55"
+    },
+    {
+      "index": 110,
+      "topic": "Kenapa Minum Es Dingin Bisa Bikin Kepala Terasa Sakit Membeku? (Brain Freeze)",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h28m44.745464069s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30524s'}]}}",
+      "time": "2026-10-10 23:31:19"
+    },
+    {
+      "index": 111,
+      "topic": "Fakta Aneh Pohon Tertua di Bumi (Methuselah) yang Sudah Hidup Sebelum Piramida Dibangun",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h28m20.751620649s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30500s'}]}}",
+      "time": "2026-10-10 23:31:43"
+    },
+    {
+      "index": 112,
+      "topic": "Metadata Foto: Bahaya Mengirim Foto Mentah yang Menyimpan Lokasi Rumahmu Secara Presisi",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h27m56.640362744s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30476s'}]}}",
+      "time": "2026-10-10 23:32:07"
+    },
+    {
+      "index": 113,
+      "topic": "Misteri Kapal Hantu Ourang Medan: Pesan Morse Terakhir yang Menyeramkan di Selat Malaka",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 8h27m32.491550189s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '30452s'}]}}",
+      "time": "2026-10-10 23:32:31"
+    },
+    {
+      "index": 114,
+      "topic": "Bagaimana Bau atau Aroma Tertentu Bisa Seketika Membangkitkan Kenangan Masa Kecil? (Proust Effect)",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Bau_Bikin_Kangen_Masa_Lalu_Rahasi_1791715553.mp4",
+      "status": "success",
+      "time": "2026-10-11 18:47:14"
+    },
+    {
+      "index": 115,
+      "topic": "Berapa Banyak Informasi yang Sebenarnya Mampu Disimpan oleh Memori Otak Manusia?",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kapasitas_Asli_Memori_Otakmu_Bikin_Melon_1791715638.mp4",
+      "status": "success",
+      "time": "2026-10-11 18:48:53"
+    },
+    {
+      "index": 116,
+      "topic": "Kenapa Suara Ledakan di Luar Angkasa Sebenarnya Tidak Pernah Terdengar?",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bohong_Besar_Film_Sci-Fi_Terbongkar_Shor_1791715736.mp4",
+      "status": "success",
+      "time": "2026-10-11 18:50:18"
+    },
+    {
+      "index": 117,
+      "topic": "Kenapa Game Gratisan Sering Meminta Izin Akses Kontak dan Mikrofon yang Mencurigakan",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Game_Gratis_Minta_Akses_Mikrofon__1791715821.mp4",
+      "status": "success",
+      "time": "2026-10-11 18:51:45"
+    },
+    {
+      "index": 118,
+      "topic": "Gua Altamira: Lukisan Dinding Berusia 36.000 Tahun yang Membuktikan Kecerdasan Manusia Purba",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Lukisan_Berusia_36000_Tahun_Bikin_Picass_1791715909.mp4",
+      "status": "success",
+      "time": "2026-10-11 18:53:16"
+    },
+    {
+      "index": 119,
+      "topic": "Kenapa Kita Susah Menghentikan Lagu yang Terngiang-ngiang Terus di Kepala? (Earworm)",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Lagu_Nyangkut_Terus_di_Kepala_Mis_1791715999.mp4",
+      "status": "success",
+      "time": "2026-10-11 18:54:38"
+    },
+    {
+      "index": 120,
+      "topic": "Kenapa Kita Cegukan? Fakta di Balik Kejang Tiba-Tiba pada Otot Diafragma",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Tubuhmu_Mendadak_Korslet_Ini_Fakta_Ceguk_1791716081.mp4",
+      "status": "success",
+      "time": "2026-10-11 18:57:01"
+    },
+    {
+      "index": 121,
+      "topic": "Misteri Danau Maracaibo: Tempat di Bumi dengan Sambaran Petir 297 Kali per Jam",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Danau_Paling_Berbahaya_di_Dunia_297_Peti_1791716224.mp4",
+      "status": "success",
+      "time": "2026-10-11 18:58:39"
+    },
+    {
+      "index": 122,
+      "topic": "Cara Cek Apakah Alamat Email dan Passwordmu Pernah Bocor di Insiden Peretasan Massal",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Password_Kamu_Udah_Dijual_di_Pasar_Gelap_1791716322.mp4",
+      "status": "success",
+      "time": "2026-10-11 19:00:10"
+    },
+    {
+      "index": 123,
+      "topic": "Perpustakaan Rahasia Vatikan: Arsip Bersejarah yang Dijaga Ketat di Bawah Tanah",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bunker_Rahasia_Vatikan_Sepanjang_85_KM_B_1791716413.mp4",
+      "status": "success",
+      "time": "2026-10-11 19:01:46"
+    },
+    {
+      "index": 124,
+      "topic": "Psikologi Warna: Bagaimana Warna Merah dan Kuning Memancing Rasa Lapar di Restoran Cepat Saji",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Rahasia_Jahat_Warna_Merah__Kuning_Resto__1791716509.mp4",
+      "status": "success",
+      "time": "2026-10-11 19:03:28"
+    },
+    {
+      "index": 125,
+      "topic": "Mengapa Air Mata Emosional Memiliki Komposisi Kimia Berbeda dari Air Mata Saat Kelilipan?",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Air_Mata_Bawang_VS_Air_Mata_Sedih_Beda_R_1791716611.mp4",
+      "status": "success",
+      "time": "2026-10-11 19:05:03"
+    },
+    {
+      "index": 126,
+      "topic": "Bagaimana Tardigrade (Beruang Air) Bisa Bertahan Hidup di Luar Angkasa Tanpa Oksigen?",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Hewan_Ini_Kebal_Luar_Angkasa_Tanpa_Oksig_1791716706.mp4",
+      "status": "success",
+      "time": "2026-10-11 19:06:36"
+    },
+    {
+      "index": 127,
+      "topic": "Serangan Ransomware: Bagaimana Satu Klik File Lampiran Bisa Mengunci Seluruh Komputermu",
+      "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Satu_Klik_Bikin_Laptopmu_Disandera_Selam_1791716799.mp4",
+      "status": "success",
+      "time": "2026-10-11 19:08:03"
+    },
+    {
+      "index": 128,
+      "topic": "Kaisar Terkaya Sepanjang Sejarah Manusia: Mansa Musa yang Membagi Emas di Sepanjang Perjalanan",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h51m38.538436237s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46298s'}]}}",
+      "time": "2026-10-11 19:08:26"
+    },
+    {
+      "index": 129,
+      "topic": "Kenapa Manusia Cenderung Membeli Barang Mahal yang Sebenarnya Tidak Mereka Butuhkan?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h51m14.183669207s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46274s'}]}}",
+      "time": "2026-10-11 19:08:50"
+    },
+    {
+      "index": 130,
+      "topic": "Kenapa Hati (Liver) Manusia Adalah Satu-satunya Organ Dalam yang Bisa Tumbuh Kembali?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h50m49.854304115s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46249s'}]}}",
+      "time": "2026-10-11 19:09:14"
+    },
+    {
+      "index": 131,
+      "topic": "Kenapa Inti Bumi yang Berisi Besi Mendidih Tetap Berbentuk Padat Akibat Tekanan Ekstrem?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h50m25.822437656s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46225s'}]}}",
+      "time": "2026-10-11 19:09:38"
+    },
+    {
+      "index": 132,
+      "topic": "Stalkerware: Aplikasi Mata-Mata Tak Kasat Mata yang Bisa Ditanam di HP Pasangan",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h50m1.79693714s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46201s'}]}}",
+      "time": "2026-10-11 19:10:02"
+    },
+    {
+      "index": 133,
+      "topic": "Misteri Garis Nazca di Peru: Gambar Geoglif Raksasa yang Hanya Bisa Dilihat Sempurna dari Udara",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h49m37.59273896s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46177s'}]}}",
+      "time": "2026-10-11 19:10:27"
+    },
+    {
+      "index": 134,
+      "topic": "Efek Pygmalion: Bagaimana Ekspektasi Positif Orang Lain Bisa Mengubah Prestasi Kita",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h49m13.473145058s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46153s'}]}}",
+      "time": "2026-10-11 19:10:51"
+    },
+    {
+      "index": 135,
+      "topic": "Fakta Menakjubkan Sel Darah Putih yang Bertarung Sampai Mati Melawan Bakteri",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h48m48.668145372s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46128s'}]}}",
+      "time": "2026-10-11 19:11:15"
+    },
+    {
+      "index": 136,
+      "topic": "Fakta Hujan Berlian yang Terjadi di Planet Neptunus dan Uranus",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h48m23.301471951s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46103s'}]}}",
+      "time": "2026-10-11 19:11:41"
+    },
+    {
+      "index": 137,
+      "topic": "Bahaya Mengisi Kuis Kepribadian di Medsos yang Mengumpulkan Data Keamanan Akunmu",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h47m58.786273118s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46078s'}]}}",
+      "time": "2026-10-11 19:12:05"
+    },
+    {
+      "index": 138,
+      "topic": "Bagaimana Peradaban Harappa di Lembah Indus Memiliki Sistem Sanitasi Modern 4000 Tahun Lalu?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h47m34.863561861s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46054s'}]}}",
+      "time": "2026-10-11 19:12:29"
+    },
+    {
+      "index": 139,
+      "topic": "Kenapa Menangis Bisa Membuat Perasaan Seseorang Menjadi Jauh Lebih Lega?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h47m9.815092445s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46029s'}]}}",
+      "time": "2026-10-11 19:12:54"
+    },
+    {
+      "index": 140,
+      "topic": "Kenapa Kulit Jari Kita Mengkerut Saat Terlalu Lama Berada di Dalam Air?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h46m46.171459563s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '46006s'}]}}",
+      "time": "2026-10-11 19:13:18"
+    },
+    {
+      "index": 141,
+      "topic": "Misteri Api Abadi Yanar Dag yang Menyala Selama Ribuan Tahun Tanpa Pernah Padam",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h46m22.055261028s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45982s'}]}}",
+      "time": "2026-10-11 19:13:42"
+    },
+    {
+      "index": 142,
+      "topic": "Modus Phishing Website Kembar: Cara Membedakan Tautan Bank Asli dan Palsu",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h45m58.25650416s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45958s'}]}}",
+      "time": "2026-10-11 19:14:06"
+    },
+    {
+      "index": 143,
+      "topic": "Misteri Hilangnya Koloni Roanoke: Seluruh Penduduk Lenyap Hanya Meninggalkan Tulisan Croatoan",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h45m34.64547978s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45934s'}]}}",
+      "time": "2026-10-11 19:14:29"
+    },
+    {
+      "index": 144,
+      "topic": "Fenomena Jamais Vu: Sensasi Aneh Ketika Hal yang Sangat Familiar Tiba-tiba Terasa Sangat Asing",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h45m10.66845447s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45910s'}]}}",
+      "time": "2026-10-11 19:14:53"
+    },
+    {
+      "index": 145,
+      "topic": "Apa yang Sebenarnya Terjadi di Otak Kita Saat Kita Sedang Mengalami Dehidrasi?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h44m46.882010183s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45886s'}]}}",
+      "time": "2026-10-11 19:15:17"
+    },
+    {
+      "index": 146,
+      "topic": "Apa yang Terjadi Jika Sebuah Jarum Menabrak Bumi dengan Kecepatan Cahaya?",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h44m22.831340797s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-3.8-flash', 'location': 'global'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45862s'}]}}",
+      "time": "2026-10-11 19:15:41"
+    },
+    {
+      "index": 147,
+      "topic": "Kenapa Menggunakan VPN Gratisan Bisa Justru Menjual Seluruh Riwayat Browsing-mu",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h43m58.270082877s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45838s'}]}}",
+      "time": "2026-10-11 19:16:06"
+    },
+    {
+      "index": 148,
+      "topic": "Harta Karun Kapal San Jose: Emas Bernilai 300 Triliun Rupiah di Dasar Laut Karibia",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h43m34.136357392s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45814s'}]}}",
+      "time": "2026-10-11 19:16:30"
+    },
+    {
+      "index": 149,
+      "topic": "Eksperimen Penjara Stanford: Bukti Mengerikan Bagaimana Kekuasaan Bisa Mengubah Moral Manusia",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h43m10.333843182s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45790s'}]}}",
+      "time": "2026-10-11 19:16:54"
+    },
+    {
+      "index": 150,
+      "topic": "Kekuatan Super Otot Rahang (Masseter): Otot Terkuat di Tubuh Berdasarkan Beratnya",
+      "status": "failed",
+      "error": "Gagal menghasilkan naskah animasi setelah mencoba semua model: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-3.8-flash\\nPlease retry in 12h42m46.328770579s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-3.8-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '45766s'}]}}",
+      "time": "2026-10-11 19:17:18"
+    }
+  ]
+}

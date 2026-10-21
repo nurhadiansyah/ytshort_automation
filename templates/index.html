@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Shorts Animator Studio - Google AI Studio & Gemini</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/css/style.css">
+</head>
+<body>
+    <!-- Background Animated Glows -->
+    <div class="bg-glow glow-1"></div>
+    <div class="bg-glow glow-2"></div>
+
+    <!-- Navigation Header -->
+    <header class="navbar">
+        <div class="nav-brand">
+            <div class="logo-icon">✨</div>
+            <div class="brand-text">
+                <h1>AI Shorts Animator</h1>
+                <span>Studio Video Ilustrasi Animasi Otomatis</span>
+            </div>
+        </div>
+        <div class="nav-status">
+            <div class="status-badge" id="badge-gemini">
+                <span class="status-dot"></span>
+                <span>Google AI Studio</span>
+            </div>
+            <div class="status-badge" id="badge-ffmpeg">
+                <span class="status-dot"></span>
+                <span>FFmpeg Engine</span>
+            </div>
+            <div class="status-badge" id="badge-youtube">
+                <span class="status-dot"></span>
+                <span id="yt-status-text">YouTube API</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- Tab Navigation -->
+    <div class="tabs-bar-container">
+        <div class="tabs-bar">
+            <button class="tab-nav-btn active" data-target="singleView">
+                <span class="tab-icon">🎬</span>
+                <span>Video Satuan</span>
+            </button>
+            <button class="tab-nav-btn" data-target="batchView">
+                <span class="tab-icon">🏭</span>
+                <span>Pabrik 1 Bulan (150 Video & 5/Hari)</span>
+                <span class="tab-chip">Otomatis</span>
+            </button>
+        </div>
+    </div>
+
+    <!-- TAB 1: GENERATOR SATUAN -->
+    <div id="singleView" class="tab-pane active">
+        <main class="main-layout">
+            <!-- Panel Kiri: Form Kreator -->
+            <section class="card creator-card">
+                <div class="card-header">
+                    <h2>🎬 Buat Video Shorts Edukasi Baru</h2>
+                    <p>Otomatisasi naskah edukasi viral, voiceover studio, seni ilustrasi, dan render vertikal 9:16.</p>
+                </div>
+
+                <!-- Input Topik Video -->
+                <div class="form-group">
+                    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px;">
+                        <label for="topicInput" style="margin: 0;">Topik Edukasi Video</label>
+                        <button type="button" id="btnRandomTopic" class="preset-pill" style="background: linear-gradient(135deg, #f59e0b, #ef4444); color: #fff; font-weight: 700; border: none; padding: 4px 10px; cursor: pointer;">
+                            🎲 Acak Topik Viral
+                        </button>
+                    </div>
+                    <div class="input-wrapper">
+                        <input type="text" id="topicInput" placeholder="Contoh: Kenapa Paus Biru Punya Jantung Sebesar Mobil Golf?, Misteri Black Hole..." autocomplete="off">
+                    </div>
+
+                    <!-- Kategori Niche Edukasi Selector -->
+                    <div class="niche-bar" style="display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px;">
+                        <button type="button" class="niche-pill active" data-niche="all">🌟 Semua Niche</button>
+                        <button type="button" class="niche-pill" data-niche="sains_kosmos">🔬 Sains & Kosmos</button>
+                        <button type="button" class="niche-pill" data-niche="cyber_ai">🛡️ Cyber & AI</button>
+                        <button type="button" class="niche-pill" data-niche="sejarah_misteri">📜 Sejarah</button>
+                        <button type="button" class="niche-pill" data-niche="psikologi_otak">🧠 Psikologi</button>
+                        <button type="button" class="niche-pill" data-niche="tubuh_biologi">🧬 Anatomi Tubuh</button>
+                    </div>
+                    
+                    <!-- Quick Preset Pills (Dimuat dinamis per niche) -->
+                    <div class="preset-topics" id="presetTopicsContainer" style="margin-top: 10px;">
+                        <span class="preset-label">Ide Topik:</span>
+                        <button type="button" class="preset-pill" data-topic="Apa Itu AI Agent? Cara Robot Cerdas Bekerja Otonom Tanpa Disuruh">🤖 Apa Itu AI Agent?</button>
+                        <button type="button" class="preset-pill" data-topic="Kenapa Paus Biru Punya Jantung Sebesar Mobil Golf dan Lidah Seberat Gajah?">🐋 Jantung Paus Biru</button>
+                        <button type="button" class="preset-pill" data-topic="Misteri Lubang Hitam: Waktu yang Melambat dan Tubuh yang Merenggang Seperti Mie">🕳️ Misteri Black Hole</button>
+                        <button type="button" class="preset-pill" data-topic="Kloning Suara AI: Cara Penipu Meniru Suara Kerabatmu Hanya dari Rekaman 3 Detik">🎙️ Kloning Suara AI</button>
+                        <button type="button" class="preset-pill" data-topic="Mengapa Kita Mengalami Deja Vu? Penjelasan Sains di Balik Sensasi Memori Palsu">🧠 Misteri Deja Vu</button>
+                    </div>
+                </div>
+
+                <!-- Pilihan Gaya Animasi -->
+                <div class="form-group">
+                    <label>Pilih Gaya Ilustrasi Animasi</label>
+                    <div class="style-grid">
+                        <label class="style-option selected">
+                            <input type="radio" name="animStyle" value="Handcrafted Claymation Animation" checked>
+                            <div class="style-card">
+                                <span class="style-emoji">🧱</span>
+                                <div class="style-info">
+                                    <strong>Handcrafted Claymation</strong>
+                                    <span>Animasi plastisin / tanah liat stop-motion (Gaya Aardman / Shaun the Sheep)</span>
+                                </div>
+                            </div>
+                        </label>
+
+                        <label class="style-option">
+                            <input type="radio" name="animStyle" value="3D Pixar Animation">
+                            <div class="style-card">
+                                <span class="style-emoji">🌟</span>
+                                <div class="style-info">
+                                    <strong>3D Pixar Animation</strong>
+                                    <span>Karakter 3D ekspresif & warna cerah sinematik</span>
+                                </div>
+                            </div>
+                        </label>
+
+                        <label class="style-option">
+                            <input type="radio" name="animStyle" value="Studio Ghibli Anime Illustration">
+                            <div class="style-card">
+                                <span class="style-emoji">🌸</span>
+                                <div class="style-info">
+                                    <strong>Studio Ghibli Anime</strong>
+                                    <span>Ilustrasi anime estetis & pemandangan magis</span>
+                                </div>
+                            </div>
+                        </label>
+
+                        <label class="style-option">
+                            <input type="radio" name="animStyle" value="Modern Dynamic Comic Animation">
+                            <div class="style-card">
+                                <span class="style-emoji">💥</span>
+                                <div class="style-info">
+                                    <strong>Modern Motion Comic</strong>
+                                    <span>Gaya komik modern & visual dinamis</span>
+                                </div>
+                            </div>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Opsi Tambahan (Voice, Subtitle Style, YouTube Privacy) -->
+                <div class="form-row">
+                    <div class="form-group flex-1">
+                        <label for="voiceType">Pilihan Voiceover (Suara)</label>
+                        <select id="voiceType">
+                            <option value="edge-ardi" selected>Microsoft Neural (Ardi - Pria Indonesia, Jernih & Cepat)</option>
+                            <option value="edge-gadis">Microsoft Neural (Gadis - Wanita Indonesia)</option>
+                            <option value="google">Google AI Studio (Puck - Suara Cerah)</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group flex-1">
+                        <label for="captionStyle">Gaya Subtitle Shorts</label>
+                        <select id="captionStyle">
+                            <option value="clay_pop" selected>⭐ Claymation Pop 3D (Plastisin Kuning/Putih 3D)</option>
+                            <option value="kinetic_bold">⚡ Kinetic Bold (Alex Hormozi / Vox - Flat)</option>
+                            <option value="neon_badge">🌟 Neon Glass Badge (Glassmorphism + Glow)</option>
+                            <option value="cyber_cyan">🔷 Cyber Cyan Tech (Futuristik Aqua)</option>
+                        </select>
+                    </div>
+
+                    <div class="form-group flex-1">
+                        <label for="privacyStatus">Privasi YouTube</label>
+                        <select id="privacyStatus">
+                            <option value="unlisted">Unlisted (Hanya Link)</option>
+                            <option value="private">Private (Pribadi)</option>
+                            <option value="public">Public (Langsung Publik)</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Fitur Desain Video Baru (Claymation Studio Edition) -->
+                <div class="feature-toggles-card">
+                    <div class="feature-toggles-header">
+                        <span>✨ Fitur Desain Video Animasi Baru</span>
+                        <span class="badge-pill-yellow">Claymation Suite</span>
+                    </div>
+                    
+                    <div class="toggles-grid">
+                        <label class="toggle-control">
+                            <input type="checkbox" id="chkHeaderBadge" checked>
+                            <span class="toggle-slider"></span>
+                            <div class="toggle-info">
+                                <strong>Stiker Hook Top Badge</strong>
+                                <span>Pill badge judul di atas layar penahan retensi</span>
+                            </div>
+                        </label>
+
+                        <label class="toggle-control">
+                            <input type="checkbox" id="chkProgressBar" checked>
+                            <span class="toggle-slider"></span>
+                            <div class="toggle-info">
+                                <strong>Garis Progres Animasi</strong>
+                                <span>Progress bar halus 0-100% di atas video</span>
+                            </div>
+                        </label>
+
+                        <label class="toggle-control">
+                            <input type="checkbox" id="chkSFX" checked>
+                            <span class="toggle-slider"></span>
+                            <div class="toggle-info">
+                                <strong>Sound FX (Whoosh & Pop)</strong>
+                                <span>Efek transisi antar adegan & aksen judul</span>
+                            </div>
+                        </label>
+
+                        <div class="pacing-selector-box">
+                            <label for="sceneCountSelect">Pacing & Jumlah Adegan</label>
+                            <select id="sceneCountSelect">
+                                <option value="5" selected>⚡ 5 Adegan Cepat (25-30s) [Rekomendasi Viral Shorts]</option>
+                                <option value="3">🎬 3 Adegan Klasik (35-45s)</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="checkbox-row" style="margin-top: 14px;">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="autoUploadCheck">
+                        <span class="checkbox-custom"></span>
+                        <span style="font-weight: 600;">Langsung upload ke YouTube setelah video selesai</span>
+                    </label>
+                </div>
+
+                <!-- Opsi Jadwal Rilis Harian Otomatis -->
+                <div id="scheduleUploadBox" class="schedule-config-box" style="display: none; margin-top: 10px; padding: 12px; background: rgba(30, 41, 59, 0.7); border: 1px solid rgba(255, 255, 255, 0.12); border-radius: 10px;">
+                    <label for="scheduleSlotSelect" style="font-size: 0.85rem; font-weight: 600; color: #f59e0b; display: flex; align-items: center; gap: 6px;">
+                        <span>📅 Jadwal Tayang Harian YouTube Shorts:</span>
+                    </label>
+                    <select id="scheduleSlotSelect" style="margin-top: 6px; width: 100%; padding: 8px 10px; border-radius: 6px; background: #0f172a; color: #f8fafc; border: 1px solid #334155; font-size: 0.85rem;">
+                        <option value="instant">⚡ Publikasi Langsung (Tanpa Jadwal)</option>
+                        <option value="next_slot" selected>⏩ Slot Prime-Time Terdekat Berikutnya (Otomatis)</option>
+                        <option value="08:00">🌅 Pagi Hari (08:00 WIB)</option>
+                        <option value="12:00">☀️ Siang Hari (12:00 WIB)</option>
+                        <option value="15:30">☕ Sore Hari (15:30 WIB)</option>
+                        <option value="18:30">🌆 Petang Hari (18:30 WIB)</option>
+                        <option value="20:30">🌙 Malam Hari (20:30 WIB)</option>
+                    </select>
+                    <p style="font-size: 0.75rem; color: var(--text-dim); margin-top: 5px;">*Jika dijadwalkan, YouTube mewajibkan status Private terlebih dahulu hingga jam tayang tiba secara otomatis.</p>
+                </div>
+
+                <!-- Tombol Generate Utama -->
+                <button id="btnGenerate" class="btn-primary">
+                    <span class="btn-icon">⚡</span>
+                    <span class="btn-text">Generate Video Animasi Claymation</span>
+                </button>
+            </section>
+
+            <!-- Panel Kanan: Live Monitor & Video Player -->
+            <section class="card monitor-card">
+                <div class="card-header">
+                    <h2>📺 Preview & Live Monitor</h2>
+                    <span class="badge-status" id="taskStatusBadge">Siap Digunakan</span>
+                </div>
+
+                <!-- Tampilan Saat Idle / Menunggu -->
+                <div id="idleState" class="monitor-empty">
+                    <div class="empty-illustration">🎨</div>
+                    <h3>Belum Ada Video yang Sedang Diproses</h3>
+                    <p>Masukkan topik di panel kiri lalu klik <b>Generate Video Animasi Claymation</b> untuk memulai proses otomatisasi.</p>
+                </div>
+
+                <!-- Progress Monitor (Aktif saat proses berjalan) -->
+                <div id="progressState" class="progress-container hidden">
+                    <div class="progress-bar-wrapper">
+                        <div class="progress-fill" id="progressFill" style="width: 0%;"></div>
+                    </div>
+                    <div class="progress-meta">
+                        <span id="currentStepText">Memulai proses...</span>
+                        <span id="progressPercent">0%</span>
+                    </div>
+
+                    <!-- Steps Checklist -->
+                    <div class="steps-checklist">
+                        <div class="step-item" id="step-script">
+                            <span class="step-num">1</span>
+                            <div class="step-details">
+                                <strong>Naskah & Hook Viral</strong>
+                                <span>Gemini merancang storyboard 5 adegan</span>
+                            </div>
+                        </div>
+                        <div class="step-item" id="step-voice">
+                            <span class="step-num">2</span>
+                            <div class="step-details">
+                                <strong>Voiceover Studio</strong>
+                                <span>Merekam narasi suara jernih 24kHz</span>
+                            </div>
+                        </div>
+                        <div class="step-item" id="step-art">
+                            <span class="step-num">3</span>
+                            <div class="step-details">
+                                <strong>Artwork Claymation</strong>
+                                <span>Menghasilkan figur karakter plastisin & diorama</span>
+                            </div>
+                        </div>
+                        <div class="step-item" id="step-render">
+                            <span class="step-num">4</span>
+                            <div class="step-details">
+                                <strong>Render & Sound Design</strong>
+                                <span>Motion, header badge, dynamic progress, & SFX</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Live Log Terminal -->
+                    <div class="terminal-box">
+                        <div class="terminal-header">
+                            <span>LIVE TERMINAL LOG</span>
+                            <span class="terminal-dot"></span>
+                        </div>
+                        <div class="terminal-content" id="terminalLogs">
+                            <div class="log-line text-muted">[Sistem Siap] Menunggu instruksi...</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Video Player Display (Smartphone Mockup) -->
+                <div id="playerState" class="player-container hidden">
+                    <div class="phone-mockup-wrapper">
+                        <div class="phone-mockup">
+                            <div class="phone-island">
+                                <div class="phone-speaker"></div>
+                                <div class="phone-camera"></div>
+                            </div>
+                            <div class="phone-glare"></div>
+                            <div class="phone-screen">
+                                <video id="videoPlayer" controls playsinline></video>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="player-info">
+                        <h3 id="playerVideoTitle">Judul Video</h3>
+                        <div class="player-actions">
+                            <a id="btnDownload" href="#" download class="btn-action">
+                                📥 Unduh Video
+                            </a>
+                            <a id="btnDownloadVeo" href="#" class="btn-action btn-veo" style="background: #1A73E8; border-color: #4285F4;">
+                                📦 Paket Veo 3
+                            </a>
+                            <button id="btnUploadNow" class="btn-action btn-yt">
+                                🚀 Upload ke YouTube
+                            </button>
+                        </div>
+                        <div id="ytUploadResult" class="yt-result-box hidden"></div>
+                    </div>
+
+                    <!-- Scene Visualizer Timeline -->
+                    <div id="sceneTimelineContainer" class="scene-timeline-section hidden">
+                        <div class="timeline-header">
+                            <h4>🎬 Timeline Adegan Animasi (Pacing Breakdown)</h4>
+                            <span class="badge-timeline-count" id="timelineCountBadge">5 Adegan</span>
+                        </div>
+                        <div class="scene-cards-grid" id="sceneCardsGrid">
+                            <!-- Diisi dinamis oleh JavaScript -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- TAB 2: PABRIK BATCH 1 BULAN -->
+    <div id="batchView" class="tab-pane hidden">
+        <section class="card batch-card">
+            <!-- Header Batch Panel -->
+            <div class="batch-header-flex">
+                <div class="batch-header-info">
+                    <h2>🏭 Pabrik Konten 1 Bulan Penuh (150 Video & 5/Hari)</h2>
+                    <p class="text-muted">Produksi otomatis 150 video vertikal (9:16) dan upload terjadwal 5 video per hari selama 30 hari penuh.</p>
+                </div>
+                <div class="batch-action-buttons">
+                    <button id="btnConnectYoutube" class="btn-primary" style="background: linear-gradient(135deg, #EF4444 0%, #B91C1C 100%);">
+                        <span class="btn-icon">🔑</span>
+                        <span>Hubungkan Akun YouTube</span>
+                    </button>
+                    <button id="btnReorganizeSchedule" class="btn-primary" style="background: linear-gradient(135deg, #6366F1 0%, #4338CA 100%);">
+                        <span class="btn-icon">📅</span>
+                        <span>Jadwalkan Semua Video Jadi (41 Video)</span>
+                    </button>
+                    <button id="btnToggleAutopilot" class="btn-primary" style="background: linear-gradient(135deg, #10B981 0%, #047857 100%);">
+                        <span class="btn-icon">🤖</span>
+                        <span id="autopilotBtnText">Aktifkan Auto-Pilot Harian</span>
+                    </button>
+                    <button id="btnUploadTodayBatch" class="btn-primary btn-batch-yt">
+                        <span class="btn-icon">📤</span>
+                        <span>Upload Batch Hari Ini</span>
+                    </button>
+                    <button id="btnStartBatch" class="btn-secondary">
+                        <span class="btn-icon">🚀</span>
+                        <span>Pabrik 150 Video</span>
+                    </button>
+                    <button id="btnResetBatch" class="btn-secondary btn-icon-only" title="Reset Antrean">
+                        <span>🔄</span>
+                    </button>
+                </div>
+            </div>
+
+            <!-- Auto-Pilot Status Banner -->
+            <div id="autopilotBanner" style="margin-top: 15px; padding: 12px 18px; border-radius: 12px; background: rgba(16, 185, 129, 0.1); border: 1px solid rgba(16, 185, 129, 0.3); display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;">
+                <div style="display: flex; align-items: center; gap: 12px;">
+                    <span id="autopilotStatusDot" style="width: 12px; height: 12px; border-radius: 50%; background: #64748b; display: inline-block;"></span>
+                    <div>
+                        <strong id="autopilotStatusTitle" style="color: #f8fafc; font-size: 0.95rem;">Auto-Pilot Harian: Nonaktif</strong>
+                        <div id="autopilotStatusMsg" style="font-size: 0.8rem; color: #94a3b8; margin-top: 2px;">Klik 'Aktifkan Auto-Pilot Harian' untuk mengunggah otomatis sesuai jam rilis setiap hari.</div>
+                    </div>
+                </div>
+                <div style="font-size: 0.8rem; color: #cbd5e1; text-align: right;">
+                    <div>Pengecekan Terakhir: <span id="autopilotLastRun" style="font-weight: 600;">-</span></div>
+                    <div>Pengecekan Berikutnya: <span id="autopilotNextRun" style="font-weight: 600;">-</span></div>
+                </div>
+            </div>
+
+            <!-- 4 Metrics Display -->
+            <div class="metrics-grid">
+                <div class="metric-box">
+                    <div class="metric-icon-bubble">🎯</div>
+                    <div class="metric-detail">
+                        <span class="metric-label">Target Konten</span>
+                        <strong class="metric-number" id="metricTotal">150 Video</strong>
+                        <span class="metric-sublabel">30 Hari (5 Konten/Hari)</span>
+                    </div>
+                </div>
+
+                <div class="metric-box">
+                    <div class="metric-icon-bubble">⚡</div>
+                    <div class="metric-detail">
+                        <span class="metric-label">Selesai Diproduksi</span>
+                        <strong class="metric-number" id="metricProduced">0 / 150</strong>
+                        <span class="metric-sublabel" id="metricPct">0% Terpenuhi</span>
+                    </div>
+                </div>
+
+                <div class="metric-box">
+                    <div class="metric-icon-bubble">📤</div>
+                    <div class="metric-detail">
+                        <span class="metric-label">Terunggah ke YouTube</span>
+                        <strong class="metric-number" id="metricUploaded">0 / 150</strong>
+                        <span class="metric-sublabel">Terjadwal Otomatis</span>
+                    </div>
+                </div>
+
+                <div class="metric-box">
+                    <div class="metric-icon-bubble">🛡️</div>
+                    <div class="metric-detail">
+                        <span class="metric-label">Kuota Harian YouTube</span>
+                        <strong class="metric-number" style="color: #10B981;">Aman (8.000)</strong>
+                        <span class="metric-sublabel">Limit 10.000 / Hari Pas</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Live Status Indicator -->
+            <div class="batch-tracker-card">
+                <div class="tracker-header-row">
+                    <div>
+                        <span class="tracker-badge" id="batchStateBadge">Antrean Siap</span>
+                        <h3 id="batchCurrentTopicTitle" class="tracker-active-topic">Topik Siap: Menunggu perintah produksi batch...</h3>
+                    </div>
+                    <span class="tracker-count-text" id="batchFractionText">0 / 150 Video</span>
+                </div>
+                <div class="batch-progress-wrapper">
+                    <div class="batch-progress-fill" id="batchProgressFill" style="width: 0%;"></div>
+                </div>
+            </div>
+
+            <!-- 30-Day Schedule Accordion -->
+            <div class="schedule-section">
+                <div class="schedule-toolbar">
+                    <div>
+                        <h3>📅 Kalender Rilis 30 Hari (5 Video / Hari)</h3>
+                        <p class="text-muted">Slot Prime Time: 08:00, 12:00, 15:30, 18:30, 20:30 WIB</p>
+                    </div>
+                    <button id="btnRefreshSchedule" class="btn-refresh">🔄 Refresh Jadwal</button>
+                </div>
+                <div class="days-accordion-container" id="scheduleDaysContainer">
+                    <div class="schedule-loading">Memuat jadwal 30 hari...</div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- Galeri Video Sebelumnya -->
+    <section class="gallery-section">
+        <div class="gallery-header">
+            <h2>📁 Galeri Video Animasi Tersimpan</h2>
+            <button id="btnRefreshGallery" class="btn-refresh">🔄 Refresh Galeri</button>
+        </div>
+        <div class="video-grid" id="videoGrid">
+            <!-- Diisi secara dinamis oleh JavaScript -->
+        </div>
+    </section>
+
+    <!-- Modal Upload YouTube -->
+    <div id="uploadModal" class="modal-overlay hidden">
+        <div class="modal-card">
+            <h3>Upload Video ke YouTube Shorts</h3>
+            <p id="modalVideoName" class="text-muted"></p>
+            
+            <div class="form-group mt-3">
+                <label>Status Privasi</label>
+                <select id="modalPrivacy">
+                    <option value="unlisted">Unlisted (Rekomendasi - Cek dulu)</option>
+                    <option value="private">Private</option>
+                    <option value="public">Public</option>
+                </select>
+            </div>
+
+            <div class="form-group mt-3">
+                <label>📅 Jadwalkan Rilis Otomatis di YouTube</label>
+                <select id="modalSchedulePreset">
+                    <option value="">-- Langsung Tayang Sekarang (Sesuai Privasi) --</option>
+                    <option value="besok_pagi">Besok Pagi (08:00 WIB)</option>
+                    <option value="besok_siang">Besok Siang (12:00 WIB)</option>
+                    <option value="besok_sore">Besok Sore (15:30 WIB)</option>
+                    <option value="besok_petang">Besok Petang (18:30 WIB)</option>
+                    <option value="besok_malam">Besok Malam (20:30 WIB)</option>
+                    <option value="custom">Kustom Tanggal & Jam Sendiri...</option>
+                </select>
+            </div>
+
+            <div id="modalCustomTimeBox" class="form-group mt-2 hidden">
+                <label style="font-size: 0.8rem; color: #94a3b8;">Pilih Waktu Tayang (WIB):</label>
+                <input type="datetime-local" id="modalScheduleTime" style="padding: 8px 12px; background: rgba(15,23,42,0.6); border: 1px solid rgba(255,255,255,0.15); border-radius: 8px; color: #fff; width: 100%;">
+                <span style="font-size: 0.72rem; color: #64748b; margin-top: 4px; display: block;">Video diunggah sekarang sebagai Private dan otomatis publik di jam tersebut oleh YouTube.</span>
+            </div>
+
+            <div class="modal-actions">
+                <button id="btnCancelModal" class="btn-secondary">Batal</button>
+                <button id="btnConfirmUpload" class="btn-primary">🚀 Upload & Jadwalkan</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/js/app.js"></script>
+</body>
+</html>

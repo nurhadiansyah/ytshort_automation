@@ -1,0 +1,1994 @@
+{
+  "created_at": "2026-10-11 20:32:41",
+  "total_days": 30,
+  "videos_per_day": 5,
+  "total_videos": 148,
+  "days": [
+    {
+      "day_number": 1,
+      "date": "2026-10-09",
+      "slots": [
+        {
+          "video_index": 1,
+          "topic": "Kloning Suara AI: Penipuan Telepon yang Meniru Suara Kerabatmu",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-07 08:00 WIB",
+          "publish_at_utc": "2026-10-07T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_SUARA_KERABATMU_BISA_DIPAKAI_PENIPU__AI__1791375277.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/9JAIdX8QzBU",
+          "uploaded_at": "2026-10-08 01:15:24",
+          "error": null
+        },
+        {
+          "video_index": 2,
+          "topic": "Bahaya File APK Undangan Nikah yang Menguras Saldo M-Banking",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-07 12:00 WIB",
+          "publish_at_utc": "2026-10-07T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_AWAS_File_Undangan_Nikah_Ini_Bikin_Saldo_1791375407.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/zkVf3dyfC6c",
+          "uploaded_at": "2026-10-08 01:15:30",
+          "error": null
+        },
+        {
+          "video_index": 3,
+          "topic": "Deepfake Video Call: Cara Penipu Memalsukan Wajah Temanmu",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-07 15:30 WIB",
+          "publish_at_utc": "2026-10-07T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Deepfake_Video_Call_Wajah_Temanmu_Jadi_P_1791375512.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/0qPwvT1ADE4",
+          "uploaded_at": "2026-10-08 01:15:36",
+          "error": null
+        },
+        {
+          "video_index": 4,
+          "topic": "Jebakan QR Code Palsu (Quishing) di Tempat Parkir & Restoran",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-07 18:30 WIB",
+          "publish_at_utc": "2026-10-07T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_BAHAYA_Jebakan_QR_Code_Palsu_Bikin_Dompe_1791375615.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/Zw_wIw3Tp8U",
+          "uploaded_at": "2026-10-08 01:15:42",
+          "error": null
+        },
+        {
+          "video_index": 5,
+          "topic": "Waspada Voice Note WhatsApp yang Mengandung Tautan Berbahaya",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-07 20:30 WIB",
+          "publish_at_utc": "2026-10-07T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_BAHAYA_TERSEMBUNYI_DI_BALIK_VOICE_NOTE_W_1791375718.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/IuDfZd0qQ7k",
+          "uploaded_at": "2026-10-08 01:15:48",
+          "error": null
+        }
+      ],
+      "day_status": "completed"
+    },
+    {
+      "day_number": 2,
+      "date": "2026-10-10",
+      "slots": [
+        {
+          "video_index": 6,
+          "topic": "Kenapa Kamu Wajib Mematikan Bluetooth di Tempat Ramai",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-08 18:30 WIB",
+          "publish_at_utc": "2026-10-08T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Efek_Mandela_Rahasia_Memori_Kolektif_yan_1791640855.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/DSmRgcQCyUs",
+          "uploaded_at": "2026-10-10 23:32:48",
+          "error": null
+        },
+        {
+          "video_index": 7,
+          "topic": "Bahaya Menyimpan Password di Browser Tanpa Master Password",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-08 20:30 WIB",
+          "publish_at_utc": "2026-10-08T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_RAHASIA_KESEMUTAN_Apa_yang_Terjadi_di_Da_1791640978.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/zZ3fUXtHaO0",
+          "uploaded_at": "2026-10-10 23:32:53",
+          "error": null
+        },
+        {
+          "video_index": 8,
+          "topic": "Cara Hacker Mengetahui Password Kamu Hanya dalam 5 Detik",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-09 08:00 WIB",
+          "publish_at_utc": "2026-10-09T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Planet_HD_189733b_Hujan_Kaca_Meleleh_700_1791641084.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/wrbMlftcKwI",
+          "uploaded_at": "2026-10-10 23:32:59",
+          "error": null
+        },
+        {
+          "video_index": 9,
+          "topic": "Kenapa Menggunakan Tanggal Lahir untuk PIN ATM Sangat Fatal",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-09 12:00 WIB",
+          "publish_at_utc": "2026-10-09T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_BAHAYA_SCAN_QR_CODE_INI_SALDO_LUDES_SEKE_1791641176.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/PKEXYbb7kv0",
+          "uploaded_at": "2026-10-10 23:33:04",
+          "error": null
+        },
+        {
+          "video_index": 10,
+          "topic": "Trik Password Dua Langkah (2FA) via SMS yang Bisa Dibobol (SIM Swapping)",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-09 15:30 WIB",
+          "publish_at_utc": "2026-10-09T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_KOMPUTER_2000_TAHUN_LALU_Bikin_Ilmuwan_G_1791641269.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/aulC6zqdUII",
+          "uploaded_at": "2026-10-10 23:33:10",
+          "error": null
+        }
+      ],
+      "day_status": "completed"
+    },
+    {
+      "day_number": 3,
+      "date": "2026-10-11",
+      "slots": [
+        {
+          "video_index": 11,
+          "topic": "Solusi Authenticator App: Cara Paling Aman Melindungi Akun Medsos",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-09 18:30 WIB",
+          "publish_at_utc": "2026-10-09T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Otak_Suka_Menunda_Fakta_Ilmiah_PR_1791641363.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/83nqcNgN4jk",
+          "uploaded_at": "2026-10-11 18:22:16",
+          "error": null
+        },
+        {
+          "video_index": 12,
+          "topic": "Tanda-Tanda Akun Google Kamu Sedang Diintip dari Lokasi Asing",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-09 20:30 WIB",
+          "publish_at_utc": "2026-10-09T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kekuatan_GILA_Asam_Lambung_Bisa_Lelehkan_1791641456.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/DEUJwrxMrVM",
+          "uploaded_at": "2026-10-11 18:22:23",
+          "error": null
+        },
+        {
+          "video_index": 13,
+          "topic": "Kenapa Game Gratisan Meminta Izin Akses Kontak & Lokasi HP-mu",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-10 12:00 WIB",
+          "publish_at_utc": "2026-10-10T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Jangan_Buka_Undangan_Nikah_Ini_Saldo_Len_1791641581.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/MPdh49eoxPo",
+          "uploaded_at": "2026-10-11 18:22:28",
+          "error": null
+        }
+      ],
+      "day_status": "completed"
+    },
+    {
+      "day_number": 4,
+      "date": "2026-10-12",
+      "slots": [
+        {
+          "video_index": 14,
+          "topic": "Bukan Cuma Chat, Robot Ini Bisa Kerja Sendiri! #Shorts #Edukasi #Teknologi",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-12 08:00 WIB",
+          "publish_at_utc": "2026-10-12T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bukan_Cuma_Chat_Robot_Ini_Bisa_Kerja_Sen_1791637780.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/UlTzwsScQ3M",
+          "uploaded_at": "2026-10-12 00:05:27",
+          "error": null
+        },
+        {
+          "video_index": 15,
+          "topic": "Jantung Sebesar Mobil Golf?! Paus Biru Bikin Melongo! #Shorts #Edukasi #Sains",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-12 12:00 WIB",
+          "publish_at_utc": "2026-10-12T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Jantung_Sebesar_Mobil_Golf_Paus_Biru_Bik_1791638955.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/3y7zDbIBg3g",
+          "uploaded_at": "2026-10-13 13:36:01",
+          "error": null
+        },
+        {
+          "video_index": 16,
+          "topic": "BAHAYA! AI Kloning Suara Jadi 'Kamu' Hanya Dari Rekaman 3 Detik?! #Shorts #Edukasi #Sains",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-12 15:30 WIB",
+          "publish_at_utc": "2026-10-12T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_BAHAYA_AI_Kloning_Suara_Jadi_Kamu_Hanya__1791639669.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/iLhBqNt-lL0",
+          "uploaded_at": "2026-10-13 13:36:04",
+          "error": null
+        },
+        {
+          "video_index": 17,
+          "topic": "RAHASIA TERGELAP Bawah Kaki SPHINX & PIRAMIDA GIZA! 🤫 #Shorts #Edukasi #Misteri",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-12 18:30 WIB",
+          "publish_at_utc": "2026-10-12T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_RAHASIA_TERGELAP_Bawah_Kaki_SPHINX__PIRA_1791639772.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/mu7SrC4pE9I",
+          "uploaded_at": "2026-10-13 13:36:13",
+          "error": null
+        },
+        {
+          "video_index": 18,
+          "topic": "MISTERI DEJA VU TERUNGKAP! Otakmu Lagi Error Atau Cenayang? #Shorts #Edukasi #Sains",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-12 20:30 WIB",
+          "publish_at_utc": "2026-10-12T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_MISTERI_DEJA_VU_TERUNGKAP_Otakmu_Lagi_Er_1791640351.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/2gv6iTpxLgc",
+          "uploaded_at": "2026-10-13 13:36:26",
+          "error": null
+        }
+      ],
+      "day_status": "completed"
+    },
+    {
+      "day_number": 5,
+      "date": "2026-10-13",
+      "slots": [
+        {
+          "video_index": 19,
+          "topic": "KENAPA KITA IKUTAN MENGUAP?! FAKTA OTAK EMPATI BIKIN MELONGO! #Shorts #Edukasi #Sains",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-13 08:00 WIB",
+          "publish_at_utc": "2026-10-13T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_KENAPA_KITA_IKUTAN_MENGUAP_FAKTA_OTAK_EM_1791640461.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/Hcem_MmY7OI",
+          "uploaded_at": "2026-10-13 13:36:36",
+          "error": null
+        },
+        {
+          "video_index": 20,
+          "topic": "Misteri Lubang Hitam: Kamu Jadi Mie Instan di Waktu Abadi! 😱 #Sains #LubangHitam #FaktaUnik",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-13 12:00 WIB",
+          "publish_at_utc": "2026-10-13T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Misteri_Lubang_Hitam_Kamu_Jadi_Mie_Insta_1791640570.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/YnGkrKiH5s4",
+          "uploaded_at": "2026-10-13 13:51:13",
+          "error": null
+        },
+        {
+          "video_index": 21,
+          "topic": "AWAS! Kabel Charger Gratis Ini Diam-diam SEDOT DATA HP-mu! #JuiceJacking #KeamananSiber",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-13 15:30 WIB",
+          "publish_at_utc": "2026-10-13T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_AWAS_Kabel_Charger_Gratis_Ini_Diam-diam__1791640669.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/jBRtNUdJuvs",
+          "uploaded_at": "2026-10-13 13:51:19",
+          "error": null
+        },
+        {
+          "video_index": 22,
+          "topic": "Tragedi Alexandria: Ribuan Tahun Pengetahuan Manusia Terbakar! #Sejarah #Edukasi #FaktaUnik",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-13 18:30 WIB",
+          "publish_at_utc": "2026-10-13T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Tragedi_Alexandria_Ribuan_Tahun_Pengetah_1791640761.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/j4nz2S6t_iw",
+          "uploaded_at": "2026-10-13 13:51:40",
+          "error": null
+        },
+        {
+          "video_index": 23,
+          "topic": "Bukan Chatbot Biasa! Rahasia AI Agent Bikin Melongo #Shorts #Edukasi #Teknologi #Sains",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-13 20:30 WIB",
+          "publish_at_utc": "2026-10-13T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bukan_Chatbot_Biasa_Rahasia_AI_Agent_Bik_1791640729.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/7gK5cmIj1HU",
+          "uploaded_at": "2026-10-13 13:51:47",
+          "error": null
+        }
+      ],
+      "day_status": "completed"
+    },
+    {
+      "day_number": 6,
+      "date": "2026-10-14",
+      "slots": [
+        {
+          "video_index": 24,
+          "topic": "Bunker Kuno Bawah Tanah Sedalam 85 Meter yang Bikin Melongo! #Shorts #Edukasi #Sejarah",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-14 08:00 WIB",
+          "publish_at_utc": "2026-10-14T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bunker_Kuno_Bawah_Tanah_Sedalam_85_Meter_1791641838.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/Y-HTEeMYzEk",
+          "uploaded_at": "2026-10-13 13:51:54",
+          "error": null
+        },
+        {
+          "video_index": 25,
+          "topic": "Cara Otak Sadar & Kendalikan Mimpi Seperti Sutradara! 🎬🧠 #Shorts #Edukasi #Sains",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-14 12:00 WIB",
+          "publish_at_utc": "2026-10-14T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Cara_Otak_Sadar__Kendalikan_Mimpi_Sepert_1791642027.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/2gTIJSJmuq4",
+          "uploaded_at": "2026-10-14 21:35:09",
+          "error": null
+        },
+        {
+          "video_index": 26,
+          "topic": "Kenapa Gak Bisa Geli Sendiri? Rahasia Otak Kamu! #Shorts #Edukasi #Sains",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-14 15:30 WIB",
+          "publish_at_utc": "2026-10-14T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Gak_Bisa_Geli_Sendiri_Rahasia_Ota_1791642211.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/F2lslonrU6Y",
+          "uploaded_at": "2026-10-14 21:35:18",
+          "error": null
+        },
+        {
+          "video_index": 27,
+          "topic": "Tempat Paling Sepi di Bumi: Manusia Terdekat Ada di Luar Angkasa?! #Shorts #Edukasi #Sains #FaktaUnik",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-14 18:30 WIB",
+          "publish_at_utc": "2026-10-14T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Tempat_Paling_Sepi_di_Bumi_Manusia_Terde_1791642473.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/XZcb-QBIjyc",
+          "uploaded_at": "2026-10-14 21:35:25",
+          "error": null
+        },
+        {
+          "video_index": 28,
+          "topic": "Bahaya Rahasia Bluetooth di Keramaian! #Shorts #Edukasi #CyberSecurity",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-14 20:30 WIB",
+          "publish_at_utc": "2026-10-14T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bahaya_Rahasia_Bluetooth_di_Keramaian_Sh_1791642684.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/7PQRoGM3bbc",
+          "uploaded_at": "2026-10-14 21:35:34",
+          "error": null
+        }
+      ],
+      "day_status": "completed"
+    },
+    {
+      "day_number": 7,
+      "date": "2026-10-15",
+      "slots": [
+        {
+          "video_index": 29,
+          "topic": "Misteri 8.000 Wajah Prajurit Terakota: Tak Ada yang Sama?! #Shorts #Edukasi #Sejarah",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-15 08:00 WIB",
+          "publish_at_utc": "2026-10-15T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Misteri_8000_Wajah_Prajurit_Terakota_Tak_1791642922.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/3TcQtfP2wcU",
+          "uploaded_at": "2026-10-14 21:35:43",
+          "error": null
+        },
+        {
+          "video_index": 30,
+          "topic": "Kenapa Lagu Tertentu Bikin Bulu Kuduk Merinding? Ini Rahasianya! 🎧✨ #Shorts #Edukasi #Sains",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-15 12:00 WIB",
+          "publish_at_utc": "2026-10-15T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Lagu_Tertentu_Bikin_Bulu_Kuduk_Me_1791643174.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/1AfmkLZ8JI0",
+          "uploaded_at": "2026-10-16 15:07:48",
+          "error": null
+        },
+        {
+          "video_index": 31,
+          "topic": "Berapa Lama Otakmu Sadar Saat Jantung Berhenti? 😱 #Shorts #Edukasi #Sains",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-15 15:30 WIB",
+          "publish_at_utc": "2026-10-15T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Berapa_Lama_Otakmu_Sadar_Saat_Jantung_Be_1791643363.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/h73Dy6BDCaU",
+          "uploaded_at": "2026-10-16 15:07:55",
+          "error": null
+        },
+        {
+          "video_index": 32,
+          "topic": "Ke Mana Perginya Air Laut yang Ditelan Bumi? #Shorts #Edukasi #Sains",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-15 18:30 WIB",
+          "publish_at_utc": "2026-10-15T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Ke_Mana_Perginya_Air_Laut_yang_Ditelan_B_1791643534.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/A98N51Z_Ofg",
+          "uploaded_at": "2026-10-16 15:08:01",
+          "error": null
+        },
+        {
+          "video_index": 33,
+          "topic": "JANGAN Sembarangan Konek Wi-Fi Kafe! Ini Bahaya Evil Twin #Shorts #Edukasi #Teknologi",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-15 20:30 WIB",
+          "publish_at_utc": "2026-10-15T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_JANGAN_Sembarangan_Konek_Wi-Fi_Kafe_Ini__1791643693.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/NU9_hDWyE3I",
+          "uploaded_at": "2026-10-16 15:08:06",
+          "error": null
+        }
+      ],
+      "day_status": "completed"
+    },
+    {
+      "day_number": 8,
+      "date": "2026-10-16",
+      "slots": [
+        {
+          "video_index": 34,
+          "topic": "Misteri Ratusan Orang Menari Sampai Mati! #Shorts #Edukasi #Sejarah",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-16 08:00 WIB",
+          "publish_at_utc": "2026-10-16T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Misteri_Ratusan_Orang_Menari_Sampai_Mati_1791643858.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/W0EdOIJoMpI",
+          "uploaded_at": "2026-10-16 15:08:12",
+          "error": null
+        },
+        {
+          "video_index": 35,
+          "topic": "Makin Gak Tahu, Makin Sok Tahu?! Sains Membuktikannya! #Shorts #Edukasi #Psikologi",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-16 12:00 WIB",
+          "publish_at_utc": "2026-10-16T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Makin_Gak_Tahu_Makin_Sok_Tahu_Sains_Memb_1791644119.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/kKJFiDjDerg",
+          "uploaded_at": "2026-10-20 18:50:54",
+          "error": null
+        },
+        {
+          "video_index": 36,
+          "topic": "Bukan Cuma Chatbot! Ini AI Agent yang Bikin Merinding #Shorts #Edukasi #Teknologi",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-16 15:30 WIB",
+          "publish_at_utc": "2026-10-16T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bukan_Cuma_Chatbot_Ini_AI_Agent_yang_Bik_1791647743.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/JC2PwMOyyIY",
+          "uploaded_at": "2026-10-20 18:51:05",
+          "error": null
+        },
+        {
+          "video_index": 37,
+          "topic": "Jebakan Wi-Fi Gratis yang Diam-Diam Nyedot Datamu! ⚠️😱 #Shorts #Edukasi #CyberSecurity",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-16 18:30 WIB",
+          "publish_at_utc": "2026-10-16T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Jebakan_Wi-Fi_Gratis_yang_Diam-Diam_Nyed_1791715538.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/r0jJKm8o7jg",
+          "uploaded_at": "2026-10-20 18:51:13",
+          "error": null
+        },
+        {
+          "video_index": 38,
+          "topic": "Kenapa Bau Bikin Kangen Masa Lalu? Rahasia Otak Membongkar Nostalgia! #Shorts #Edukasi #Sains",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-16 20:30 WIB",
+          "publish_at_utc": "2026-10-16T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Bau_Bikin_Kangen_Masa_Lalu_Rahasi_1791715553.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/EPrE8imJ2a8",
+          "uploaded_at": "2026-10-20 18:51:22",
+          "error": null
+        }
+      ],
+      "day_status": "completed"
+    },
+    {
+      "day_number": 9,
+      "date": "2026-10-17",
+      "slots": [
+        {
+          "video_index": 39,
+          "topic": "Awas Wi-Fi Kembar Pembobol Rekening! #Shorts #Edukasi #CyberSecurity",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-17 08:00 WIB",
+          "publish_at_utc": "2026-10-17T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Awas_Wi-Fi_Kembar_Pembobol_Rekening_Shor_1791715619.mp4",
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/yBFXzCYtOcA",
+          "uploaded_at": "2026-10-20 18:51:31",
+          "error": null
+        },
+        {
+          "video_index": 40,
+          "topic": "Kapasitas Asli Memori Otakmu Bikin Melongo! #Shorts #Edukasi #Sains",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-17 12:00 WIB",
+          "publish_at_utc": "2026-10-17T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kapasitas_Asli_Memori_Otakmu_Bikin_Melon_1791715638.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 41,
+          "topic": "Awas! Kabel Casan Umum Bisa Rampok HP Kamu?! #Shorts #Edukasi #CyberSecurity",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-17 15:30 WIB",
+          "publish_at_utc": "2026-10-17T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Awas_Kabel_Casan_Umum_Bisa_Rampok_HP_Kam_1791715699.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 42,
+          "topic": "Bohong Besar Film Sci-Fi Terbongkar! #Shorts #Edukasi #Sains",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-17 18:30 WIB",
+          "publish_at_utc": "2026-10-17T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bohong_Besar_Film_Sci-Fi_Terbongkar_Shor_1791715736.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 43,
+          "topic": "Aplikasi Senter Ngintip Kamu Diam-diam?! 😱 #Shorts #Edukasi #Teknologi",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-17 20:30 WIB",
+          "publish_at_utc": "2026-10-17T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Aplikasi_Senter_Ngintip_Kamu_Diam-diam___1791715799.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "in_progress"
+    },
+    {
+      "day_number": 10,
+      "date": "2026-10-18",
+      "slots": [
+        {
+          "video_index": 44,
+          "topic": "Kenapa Game Gratis Minta Akses Mikrofon & Kontak? #Shorts #Edukasi #Teknologi",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-18 08:00 WIB",
+          "publish_at_utc": "2026-10-18T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Game_Gratis_Minta_Akses_Mikrofon__1791715821.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 45,
+          "topic": "Lukisan Berusia 36.000 Tahun Bikin Picasso Melongo! #Shorts #Edukasi #Sains #Sejarah",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-18 12:00 WIB",
+          "publish_at_utc": "2026-10-18T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Lukisan_Berusia_36000_Tahun_Bikin_Picass_1791715909.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 46,
+          "topic": "Kenapa Lagu Nyangkut Terus di Kepala? Misteri Earworm Terbongkar! #Shorts #Edukasi #Sains",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-18 15:30 WIB",
+          "publish_at_utc": "2026-10-18T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Lagu_Nyangkut_Terus_di_Kepala_Mis_1791715999.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 47,
+          "topic": "Tubuhmu Mendadak Korslet? Ini Fakta Cegukan! #Shorts #Edukasi #Sains",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-18 18:30 WIB",
+          "publish_at_utc": "2026-10-18T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Tubuhmu_Mendadak_Korslet_Ini_Fakta_Ceguk_1791716081.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 48,
+          "topic": "Danau Paling Berbahaya di Dunia: 297 Petir Per Jam! ⚡😱 #Shorts #Edukasi #Sains #FaktaUnik",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-18 20:30 WIB",
+          "publish_at_utc": "2026-10-18T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Danau_Paling_Berbahaya_di_Dunia_297_Peti_1791716224.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "ready"
+    },
+    {
+      "day_number": 11,
+      "date": "2026-10-19",
+      "slots": [
+        {
+          "video_index": 49,
+          "topic": "Password Kamu Udah Dijual di Pasar Gelap?! 😱 Cek Sekarang! #Shorts #Edukasi #Teknologi",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-19 08:00 WIB",
+          "publish_at_utc": "2026-10-19T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Password_Kamu_Udah_Dijual_di_Pasar_Gelap_1791716322.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 50,
+          "topic": "Bunker Rahasia Vatikan Sepanjang 85 KM Bikin Merinding! #Shorts #Edukasi #Sejarah",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-19 12:00 WIB",
+          "publish_at_utc": "2026-10-19T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bunker_Rahasia_Vatikan_Sepanjang_85_KM_B_1791716413.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 51,
+          "topic": "Rahasia Jahat Warna Merah & Kuning Resto Cepat Saji! #Shorts #Edukasi #Psikologi",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-19 15:30 WIB",
+          "publish_at_utc": "2026-10-19T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Rahasia_Jahat_Warna_Merah__Kuning_Resto__1791716509.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 52,
+          "topic": "Air Mata Bawang VS Air Mata Sedih Beda Racun?! #Shorts #Edukasi #Sains",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-19 18:30 WIB",
+          "publish_at_utc": "2026-10-19T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Air_Mata_Bawang_VS_Air_Mata_Sedih_Beda_R_1791716611.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 53,
+          "topic": "Hewan Ini Kebal Luar Angkasa Tanpa Oksigen?! #Shorts #Edukasi #Sains",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-19 20:30 WIB",
+          "publish_at_utc": "2026-10-19T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Hewan_Ini_Kebal_Luar_Angkasa_Tanpa_Oksig_1791716706.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "ready"
+    },
+    {
+      "day_number": 12,
+      "date": "2026-10-20",
+      "slots": [
+        {
+          "video_index": 54,
+          "topic": "Satu Klik Bikin Laptopmu Disandera Selamanya?! 😱🔐 #Shorts #Edukasi #Teknologi",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-20 08:00 WIB",
+          "publish_at_utc": "2026-10-20T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Satu_Klik_Bikin_Laptopmu_Disandera_Selam_1791716799.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 55,
+          "topic": "Kenapa Tulang Manusia Empat Kali Lebih Kuat dari Beton Bertulang dalam Menahan Beban?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-20 12:00 WIB",
+          "publish_at_utc": "2026-10-20T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 56,
+          "topic": "Apa yang Terjadi Jika Semua Es di Kutub Mencair Seketika dalam Semalam?",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-20 15:30 WIB",
+          "publish_at_utc": "2026-10-20T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 57,
+          "topic": "Solusi Authenticator App: Kenapa Kode SMS 2FA Sudah Tidak Lagi Aman dari Hacker",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-20 18:30 WIB",
+          "publish_at_utc": "2026-10-20T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 58,
+          "topic": "Kutukan Mumi Tutankhamun: Mitos Menakutkan atau Efek Spora Jamur Kuno yang Berbahaya?",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-20 20:30 WIB",
+          "publish_at_utc": "2026-10-20T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "ready"
+    },
+    {
+      "day_number": 13,
+      "date": "2026-10-21",
+      "slots": [
+        {
+          "video_index": 59,
+          "topic": "Kenapa Waktu Terasa Berjalan Jauh Lebih Cepat Saat Kita Beranjak Dewasa?",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-21 08:00 WIB",
+          "publish_at_utc": "2026-10-21T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 60,
+          "topic": "Apa Fungsi Sebenarnya dari Usus Buntu yang Selama Ini Dianggap Organ Tanpa Guna?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-21 12:00 WIB",
+          "publish_at_utc": "2026-10-21T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 61,
+          "topic": "Misteri Sinyal Radio Misterius Wow! dari Luar Angkasa yang Belum Terpecahkan",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-21 15:30 WIB",
+          "publish_at_utc": "2026-10-21T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 62,
+          "topic": "Social Engineering: Seni Memanipulasi Pikiran Manusia Tanpa Perlu Mengetik Baris Kode",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-21 18:30 WIB",
+          "publish_at_utc": "2026-10-21T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 63,
+          "topic": "Tembok Besar China: Berapa Banyak Orang yang Sebenarnya Membangun Keajaiban Ini?",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-21 20:30 WIB",
+          "publish_at_utc": "2026-10-21T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 14,
+      "date": "2026-10-22",
+      "slots": [
+        {
+          "video_index": 64,
+          "topic": "Mengapa Kita Bisa Tiba-tiba Melupakan Nama Seseorang 3 Detik Setelah Berkenalan?",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-22 08:00 WIB",
+          "publish_at_utc": "2026-10-22T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 65,
+          "topic": "Kenapa Jantung Manusia Bisa Terus Berdetak Meskipun Dikeluarkan dari Rongga Dada?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-22 12:00 WIB",
+          "publish_at_utc": "2026-10-22T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 66,
+          "topic": "Mengapa Suhu di Luar Angkasa Sangat Dingin Padahal Matahari Terbakar Sepanjang Waktu?",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-22 15:30 WIB",
+          "publish_at_utc": "2026-10-22T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 67,
+          "topic": "Apa Itu Dark Web dan Bagaimana Data KTP serta NIK Kita Bisa Diperjualbelikan",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-22 18:30 WIB",
+          "publish_at_utc": "2026-10-22T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 68,
+          "topic": "Misteri Stonehenge: Bagaimana Manusia Zaman Purba Memindahkan Batu Seberat 25 Ton?",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-22 20:30 WIB",
+          "publish_at_utc": "2026-10-22T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 15,
+      "date": "2026-10-23",
+      "slots": [
+        {
+          "video_index": 69,
+          "topic": "Fenomena Call of the Void: Dorongan Mendadak yang Muncul Saat Berdiri di Tepi Jurang",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-23 08:00 WIB",
+          "publish_at_utc": "2026-10-23T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 70,
+          "topic": "Fakta Menakjubkan Kecepatan Bersin Manusia yang Bisa Mencapai 160 Kilometer per Jam",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-23 12:00 WIB",
+          "publish_at_utc": "2026-10-23T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 71,
+          "topic": "Fakta Menakjubkan Jamur Cordyceps: Jamur yang Bisa Mengendalikan Otak Semut Jadi Zombie",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-23 15:30 WIB",
+          "publish_at_utc": "2026-10-23T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 72,
+          "topic": "Tanda-Tanda Tersembunyi Bahwa Layar HP Kamu Sedang Diam-diam Dipantau Orang Asing",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-23 18:30 WIB",
+          "publish_at_utc": "2026-10-23T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 73,
+          "topic": "Pedang Damascus: Rahasia Baja Kuno dengan Pola Air yang Mengandung Carbon Nanotubes",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-23 20:30 WIB",
+          "publish_at_utc": "2026-10-23T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 16,
+      "date": "2026-10-24",
+      "slots": [
+        {
+          "video_index": 74,
+          "topic": "Kenapa Otak Manusia Sangat Kecanduan Notifikasi Media Sosial? (Dopamine Loop)",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-24 08:00 WIB",
+          "publish_at_utc": "2026-10-24T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 75,
+          "topic": "Kenapa Kornea Mata Adalah Satu-satunya Bagian Tubuh yang Tidak Memiliki Aliran Darah?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-24 12:00 WIB",
+          "publish_at_utc": "2026-10-24T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 76,
+          "topic": "Kenapa Venus Lebih Panas dari Merkurius Padahal Letaknya Lebih Jauh dari Matahari?",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-24 15:30 WIB",
+          "publish_at_utc": "2026-10-24T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 77,
+          "topic": "Kenapa Wi-Fi Gratis di Bandara Tanpa Password Sangat Berbahaya Bagi Rekeningmu",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-24 18:30 WIB",
+          "publish_at_utc": "2026-10-24T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 78,
+          "topic": "Misteri Ekspedisi Dyatlov Pass: Kematian Tragis 9 Pendaki di Pegunungan Ural yang Misterius",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-24 20:30 WIB",
+          "publish_at_utc": "2026-10-24T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 17,
+      "date": "2026-10-25",
+      "slots": [
+        {
+          "video_index": 79,
+          "topic": "Efek Penonton (Bystander Effect): Mengapa Makin Banyak Saksi, Makin Lambat Bantuan Datang?",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-25 08:00 WIB",
+          "publish_at_utc": "2026-10-25T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 80,
+          "topic": "Apa yang Menyebabkan Bunyi Gemeretak Saat Kita Membunyikan Sendi Jari Tangan?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-25 12:00 WIB",
+          "publish_at_utc": "2026-10-25T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 81,
+          "topic": "Misteri Palung Mariana: Tekanan Air Sedalam 11 Kilometer yang Mampu Meremukkan Kapal Baja",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-25 15:30 WIB",
+          "publish_at_utc": "2026-10-25T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 82,
+          "topic": "SIM Swapping: Bagaimana Hacker Mengambil Alih Nomor HP-mu Tanpa Memegang Kartu Fisik",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-25 18:30 WIB",
+          "publish_at_utc": "2026-10-25T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 83,
+          "topic": "Bagaimana Bangsa Romawi Kuno Membuat Beton Super Kuat yang Tahan Air Ribuan Tahun?",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-25 20:30 WIB",
+          "publish_at_utc": "2026-10-25T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 18,
+      "date": "2026-10-26",
+      "slots": [
+        {
+          "video_index": 84,
+          "topic": "Trik Psikologis Foot-in-the-Door: Cara Halus Mempengaruhi Orang untuk Menuruti Permintaanmu",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-26 08:00 WIB",
+          "publish_at_utc": "2026-10-26T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 85,
+          "topic": "Kenapa Kita Merasa Pusing Saat Berputar-putar? Rahasia Cairan di Dalam Rumah Siput Telinga",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-26 12:00 WIB",
+          "publish_at_utc": "2026-10-26T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 86,
+          "topic": "Apa yang Terjadi Jika Bumi Berhenti Berputar Selama 1 Detik Saja?",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-26 15:30 WIB",
+          "publish_at_utc": "2026-10-26T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 87,
+          "topic": "Kenapa Kamu Tidak Boleh Menyimpan Password Penting di Browser Tanpa Master Password",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-26 18:30 WIB",
+          "publish_at_utc": "2026-10-26T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 88,
+          "topic": "Kota Atlantis: Fakta Sejarah Nyata Dibalik Catatan Filsuf Plato",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-26 20:30 WIB",
+          "publish_at_utc": "2026-10-26T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 19,
+      "date": "2026-10-27",
+      "slots": [
+        {
+          "video_index": 89,
+          "topic": "Kenapa Kita Sering Memikirkan Percakapan Memalukan dari Masa Lalu Tepat Sebelum Tidur?",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-27 08:00 WIB",
+          "publish_at_utc": "2026-10-27T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 90,
+          "topic": "Kenapa Warna Darah Manusia Berwarna Merah Cerah Saat Terkena Oksigen?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-27 12:00 WIB",
+          "publish_at_utc": "2026-10-27T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 91,
+          "topic": "Fakta Menakjubkan Honey Badger: Hewan Paling Tak Kenal Takut yang Kebal Racun Kobra",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-27 15:30 WIB",
+          "publish_at_utc": "2026-10-27T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 92,
+          "topic": "Celah Keamanan Smarthome: Bagaimana Kamera CCTV Rumah Bisa Diretas dari Jarak Jauh",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-27 18:30 WIB",
+          "publish_at_utc": "2026-10-27T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 93,
+          "topic": "Misteri Patung Moai Pulau Paskah: Tubuh Raksasa Terkubur di Bawah Tanah yang Mengejutkan",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-27 20:30 WIB",
+          "publish_at_utc": "2026-10-27T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 20,
+      "date": "2026-10-28",
+      "slots": [
+        {
+          "video_index": 94,
+          "topic": "Fenomena Tetris Effect: Kenapa Gambar Game Masih Terbayang-bayang di Mata Saat Terpejam?",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-28 08:00 WIB",
+          "publish_at_utc": "2026-10-28T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 95,
+          "topic": "Berapa Panjang Pembuluh Darah di Tubuh Manusia Jika Dibentangkan? (Keliling Bumi 2 Kali!)",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-28 12:00 WIB",
+          "publish_at_utc": "2026-10-28T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 96,
+          "topic": "Misteri Materi Gelap (Dark Matter): 85% Semesta yang Tak Bisa Dilihat Tapi Nyata Ada",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-28 15:30 WIB",
+          "publish_at_utc": "2026-10-28T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 97,
+          "topic": "Penipuan Modus Salah Transfer Uang yang Memaksa Korban Terjerat Pinjol Ilegal",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-28 18:30 WIB",
+          "publish_at_utc": "2026-10-28T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 98,
+          "topic": "Perang Troya: Fakta Arkeologi di Balik Legenda Kuda Kayu Raksasa",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-28 20:30 WIB",
+          "publish_at_utc": "2026-10-28T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 21,
+      "date": "2026-10-29",
+      "slots": [
+        {
+          "video_index": 99,
+          "topic": "Sindrom Impostor: Kenapa Orang-Orang Sukses Sering Merasa Diri Mereka Hanyalah Penipu?",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-29 08:00 WIB",
+          "publish_at_utc": "2026-10-29T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 100,
+          "topic": "Kenapa Otot Jantung Tidak Pernah Merasa Lelah Meskipun Berdetak Seumur Hidup Tanpa Henti?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-29 12:00 WIB",
+          "publish_at_utc": "2026-10-29T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 101,
+          "topic": "Bagaimana Bintang Neutron Sekecil Kota Bisa Berbobot Lebih Berat dari Matahari?",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-29 15:30 WIB",
+          "publish_at_utc": "2026-10-29T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 102,
+          "topic": "Skema Robot Trading AI Palsu: Modus Penipuan Finansial Modern yang Menguras Tabungan",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-29 18:30 WIB",
+          "publish_at_utc": "2026-10-29T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 103,
+          "topic": "Misteri Kamar Amber (Amber Room): Ruangan Berlapis Emas yang Lenyap Saat Perang Dunia II",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-29 20:30 WIB",
+          "publish_at_utc": "2026-10-29T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 22,
+      "date": "2026-10-30",
+      "slots": [
+        {
+          "video_index": 104,
+          "topic": "Mengapa Otak Kita Sangat Suka Makanan Manis Saat Sedang Mengalami Stres Berat?",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-30 08:00 WIB",
+          "publish_at_utc": "2026-10-30T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 105,
+          "topic": "Fakta Menakjubkan Lambung Manusia yang Memperbarui Lapisannya Setiap Tiga Hari Sekali",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-30 12:00 WIB",
+          "publish_at_utc": "2026-10-30T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 106,
+          "topic": "Kenapa Langit di Planet Mars Berwarna Merah di Siang Hari dan Biru Saat Matahari Terbenam?",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-30 15:30 WIB",
+          "publish_at_utc": "2026-10-30T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 107,
+          "topic": "Bagaimana AI Bisa Membaca Pola Ketukan Layar HP untuk Menebak PIN Rahasiamu",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-30 18:30 WIB",
+          "publish_at_utc": "2026-10-30T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 108,
+          "topic": "Bagaimana Suku Maya Menghitung Kalender Astronomi Lebih Akurat dari Bangsa Eropa Zaman Dulu?",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-30 20:30 WIB",
+          "publish_at_utc": "2026-10-30T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 23,
+      "date": "2026-10-31",
+      "slots": [
+        {
+          "video_index": 109,
+          "topic": "Efek Sorotan (Spotlight Effect): Kenapa Kita Selalu Merasa Semua Orang Sedang Memperhatikan Kita?",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-10-31 08:00 WIB",
+          "publish_at_utc": "2026-10-31T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 110,
+          "topic": "Kenapa Minum Es Dingin Bisa Bikin Kepala Terasa Sakit Membeku? (Brain Freeze)",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-10-31 12:00 WIB",
+          "publish_at_utc": "2026-10-31T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 111,
+          "topic": "Fakta Aneh Pohon Tertua di Bumi (Methuselah) yang Sudah Hidup Sebelum Piramida Dibangun",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-10-31 15:30 WIB",
+          "publish_at_utc": "2026-10-31T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 112,
+          "topic": "Metadata Foto: Bahaya Mengirim Foto Mentah yang Menyimpan Lokasi Rumahmu Secara Presisi",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-10-31 18:30 WIB",
+          "publish_at_utc": "2026-10-31T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 113,
+          "topic": "Misteri Kapal Hantu Ourang Medan: Pesan Morse Terakhir yang Menyeramkan di Selat Malaka",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-10-31 20:30 WIB",
+          "publish_at_utc": "2026-10-31T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 24,
+      "date": "2026-11-01",
+      "slots": [
+        {
+          "video_index": 114,
+          "topic": "Bagaimana Bau atau Aroma Tertentu Bisa Seketika Membangkitkan Kenangan Masa Kecil? (Proust Effect)",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-11-01 08:00 WIB",
+          "publish_at_utc": "2026-11-01T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Bau_Bikin_Kangen_Masa_Lalu_Rahasi_1791715553.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 115,
+          "topic": "Berapa Banyak Informasi yang Sebenarnya Mampu Disimpan oleh Memori Otak Manusia?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-11-01 12:00 WIB",
+          "publish_at_utc": "2026-11-01T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kapasitas_Asli_Memori_Otakmu_Bikin_Melon_1791715638.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 116,
+          "topic": "Kenapa Suara Ledakan di Luar Angkasa Sebenarnya Tidak Pernah Terdengar?",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-11-01 15:30 WIB",
+          "publish_at_utc": "2026-11-01T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bohong_Besar_Film_Sci-Fi_Terbongkar_Shor_1791715736.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 117,
+          "topic": "Kenapa Game Gratisan Sering Meminta Izin Akses Kontak dan Mikrofon yang Mencurigakan",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-11-01 18:30 WIB",
+          "publish_at_utc": "2026-11-01T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Game_Gratis_Minta_Akses_Mikrofon__1791715821.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 118,
+          "topic": "Gua Altamira: Lukisan Dinding Berusia 36.000 Tahun yang Membuktikan Kecerdasan Manusia Purba",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-11-01 20:30 WIB",
+          "publish_at_utc": "2026-11-01T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Lukisan_Berusia_36000_Tahun_Bikin_Picass_1791715909.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 25,
+      "date": "2026-11-02",
+      "slots": [
+        {
+          "video_index": 119,
+          "topic": "Kenapa Kita Susah Menghentikan Lagu yang Terngiang-ngiang Terus di Kepala? (Earworm)",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-11-02 08:00 WIB",
+          "publish_at_utc": "2026-11-02T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Lagu_Nyangkut_Terus_di_Kepala_Mis_1791715999.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 120,
+          "topic": "Kenapa Kita Cegukan? Fakta di Balik Kejang Tiba-Tiba pada Otot Diafragma",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-11-02 12:00 WIB",
+          "publish_at_utc": "2026-11-02T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Tubuhmu_Mendadak_Korslet_Ini_Fakta_Ceguk_1791716081.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 121,
+          "topic": "Misteri Danau Maracaibo: Tempat di Bumi dengan Sambaran Petir 297 Kali per Jam",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-11-02 15:30 WIB",
+          "publish_at_utc": "2026-11-02T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Danau_Paling_Berbahaya_di_Dunia_297_Peti_1791716224.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 122,
+          "topic": "Cara Cek Apakah Alamat Email dan Passwordmu Pernah Bocor di Insiden Peretasan Massal",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-11-02 18:30 WIB",
+          "publish_at_utc": "2026-11-02T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Password_Kamu_Udah_Dijual_di_Pasar_Gelap_1791716322.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 123,
+          "topic": "Perpustakaan Rahasia Vatikan: Arsip Bersejarah yang Dijaga Ketat di Bawah Tanah",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-11-02 20:30 WIB",
+          "publish_at_utc": "2026-11-02T13:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bunker_Rahasia_Vatikan_Sepanjang_85_KM_B_1791716413.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 26,
+      "date": "2026-11-03",
+      "slots": [
+        {
+          "video_index": 124,
+          "topic": "Psikologi Warna: Bagaimana Warna Merah dan Kuning Memancing Rasa Lapar di Restoran Cepat Saji",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-11-03 08:00 WIB",
+          "publish_at_utc": "2026-11-03T01:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Rahasia_Jahat_Warna_Merah__Kuning_Resto__1791716509.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 125,
+          "topic": "Mengapa Air Mata Emosional Memiliki Komposisi Kimia Berbeda dari Air Mata Saat Kelilipan?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-11-03 12:00 WIB",
+          "publish_at_utc": "2026-11-03T05:00:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Air_Mata_Bawang_VS_Air_Mata_Sedih_Beda_R_1791716611.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 126,
+          "topic": "Bagaimana Tardigrade (Beruang Air) Bisa Bertahan Hidup di Luar Angkasa Tanpa Oksigen?",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-11-03 15:30 WIB",
+          "publish_at_utc": "2026-11-03T08:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Hewan_Ini_Kebal_Luar_Angkasa_Tanpa_Oksig_1791716706.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 127,
+          "topic": "Serangan Ransomware: Bagaimana Satu Klik File Lampiran Bisa Mengunci Seluruh Komputermu",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-11-03 18:30 WIB",
+          "publish_at_utc": "2026-11-03T11:30:00.000Z",
+          "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Satu_Klik_Bikin_Laptopmu_Disandera_Selam_1791716799.mp4",
+          "status": "produced",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 128,
+          "topic": "Kaisar Terkaya Sepanjang Sejarah Manusia: Mansa Musa yang Membagi Emas di Sepanjang Perjalanan",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-11-03 20:30 WIB",
+          "publish_at_utc": "2026-11-03T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 27,
+      "date": "2026-11-04",
+      "slots": [
+        {
+          "video_index": 129,
+          "topic": "Kenapa Manusia Cenderung Membeli Barang Mahal yang Sebenarnya Tidak Mereka Butuhkan?",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-11-04 08:00 WIB",
+          "publish_at_utc": "2026-11-04T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 130,
+          "topic": "Kenapa Hati (Liver) Manusia Adalah Satu-satunya Organ Dalam yang Bisa Tumbuh Kembali?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-11-04 12:00 WIB",
+          "publish_at_utc": "2026-11-04T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 131,
+          "topic": "Kenapa Inti Bumi yang Berisi Besi Mendidih Tetap Berbentuk Padat Akibat Tekanan Ekstrem?",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-11-04 15:30 WIB",
+          "publish_at_utc": "2026-11-04T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 132,
+          "topic": "Stalkerware: Aplikasi Mata-Mata Tak Kasat Mata yang Bisa Ditanam di HP Pasangan",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-11-04 18:30 WIB",
+          "publish_at_utc": "2026-11-04T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 133,
+          "topic": "Misteri Garis Nazca di Peru: Gambar Geoglif Raksasa yang Hanya Bisa Dilihat Sempurna dari Udara",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-11-04 20:30 WIB",
+          "publish_at_utc": "2026-11-04T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 28,
+      "date": "2026-11-05",
+      "slots": [
+        {
+          "video_index": 134,
+          "topic": "Efek Pygmalion: Bagaimana Ekspektasi Positif Orang Lain Bisa Mengubah Prestasi Kita",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-11-05 08:00 WIB",
+          "publish_at_utc": "2026-11-05T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 135,
+          "topic": "Fakta Menakjubkan Sel Darah Putih yang Bertarung Sampai Mati Melawan Bakteri",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-11-05 12:00 WIB",
+          "publish_at_utc": "2026-11-05T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 136,
+          "topic": "Fakta Hujan Berlian yang Terjadi di Planet Neptunus dan Uranus",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-11-05 15:30 WIB",
+          "publish_at_utc": "2026-11-05T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 137,
+          "topic": "Bahaya Mengisi Kuis Kepribadian di Medsos yang Mengumpulkan Data Keamanan Akunmu",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-11-05 18:30 WIB",
+          "publish_at_utc": "2026-11-05T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 138,
+          "topic": "Bagaimana Peradaban Harappa di Lembah Indus Memiliki Sistem Sanitasi Modern 4000 Tahun Lalu?",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-11-05 20:30 WIB",
+          "publish_at_utc": "2026-11-05T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 29,
+      "date": "2026-11-06",
+      "slots": [
+        {
+          "video_index": 139,
+          "topic": "Kenapa Menangis Bisa Membuat Perasaan Seseorang Menjadi Jauh Lebih Lega?",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-11-06 08:00 WIB",
+          "publish_at_utc": "2026-11-06T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 140,
+          "topic": "Kenapa Kulit Jari Kita Mengkerut Saat Terlalu Lama Berada di Dalam Air?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-11-06 12:00 WIB",
+          "publish_at_utc": "2026-11-06T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 141,
+          "topic": "Misteri Api Abadi Yanar Dag yang Menyala Selama Ribuan Tahun Tanpa Pernah Padam",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-11-06 15:30 WIB",
+          "publish_at_utc": "2026-11-06T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 142,
+          "topic": "Modus Phishing Website Kembar: Cara Membedakan Tautan Bank Asli dan Palsu",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-11-06 18:30 WIB",
+          "publish_at_utc": "2026-11-06T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 143,
+          "topic": "Misteri Hilangnya Koloni Roanoke: Seluruh Penduduk Lenyap Hanya Meninggalkan Tulisan Croatoan",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-11-06 20:30 WIB",
+          "publish_at_utc": "2026-11-06T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    },
+    {
+      "day_number": 30,
+      "date": "2026-11-07",
+      "slots": [
+        {
+          "video_index": 144,
+          "topic": "Fenomena Jamais Vu: Sensasi Aneh Ketika Hal yang Sangat Familiar Tiba-tiba Terasa Sangat Asing",
+          "slot_label": "Pagi (08:00 WIB)",
+          "wib_time": "2026-11-07 08:00 WIB",
+          "publish_at_utc": "2026-11-07T01:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 145,
+          "topic": "Apa yang Sebenarnya Terjadi di Otak Kita Saat Kita Sedang Mengalami Dehidrasi?",
+          "slot_label": "Siang (12:00 WIB)",
+          "wib_time": "2026-11-07 12:00 WIB",
+          "publish_at_utc": "2026-11-07T05:00:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 146,
+          "topic": "Apa yang Terjadi Jika Sebuah Jarum Menabrak Bumi dengan Kecepatan Cahaya?",
+          "slot_label": "Sore (15:30 WIB)",
+          "wib_time": "2026-11-07 15:30 WIB",
+          "publish_at_utc": "2026-11-07T08:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 147,
+          "topic": "Kenapa Menggunakan VPN Gratisan Bisa Justru Menjual Seluruh Riwayat Browsing-mu",
+          "slot_label": "Petang (18:30 WIB)",
+          "wib_time": "2026-11-07 18:30 WIB",
+          "publish_at_utc": "2026-11-07T11:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        },
+        {
+          "video_index": 148,
+          "topic": "Harta Karun Kapal San Jose: Emas Bernilai 300 Triliun Rupiah di Dasar Laut Karibia",
+          "slot_label": "Malam (20:30 WIB)",
+          "wib_time": "2026-11-07 20:30 WIB",
+          "publish_at_utc": "2026-11-07T13:30:00.000Z",
+          "video_path": null,
+          "status": "pending",
+          "youtube_url": null,
+          "uploaded_at": null,
+          "error": null
+        }
+      ],
+      "day_status": "pending"
+    }
+  ]
+}
