@@ -558,19 +558,26 @@ def wait_and_open_browser(port: int):
 
 if __name__ == "__main__":
     import socket
-    port = 5000
-    # Cek apakah port 5000 sedang dipakai program lain, jika ya otomatis geser ke 5001
-    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-        if s.connect_ex(('127.0.0.1', port)) == 0:
-            print(f"[!] Port {port} sedang digunakan. Mengalihkan ke port 5001...")
-            port = 5001
+    # Gunakan port dari environment jika ada (Hugging Face Spaces default 7860) atau 5000 untuk lokal
+    default_port = 7860 if os.environ.get("SPACE_ID") else 5000
+    port = int(os.environ.get("PORT", default_port))
+
+    # Cek port hanya jika di lingkungan lokal
+    if not os.environ.get("SPACE_ID") and not os.environ.get("PORT"):
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+            if s.connect_ex(('127.0.0.1', port)) == 0:
+                print(f"[!] Port {port} sedang digunakan. Mengalihkan ke port 5001...")
+                port = 5001
 
     print(f"\n=======================================================")
-    print(f"🚀 SERVER GUI WEB LOKAL BERJALAN DI:")
+    print(f"🚀 SERVER GUI WEB BERJALAN DI:")
+    print(f"👉 Port: {port}")
     print(f"👉 http://127.0.0.1:{port}")
     print(f"👉 http://localhost:{port}")
     print(f"=======================================================\n")
     
-    # Buka browser otomatis tepat saat server siap
-    threading.Thread(target=wait_and_open_browser, args=(port,), daemon=True).start()
+    # Buka browser otomatis hanya jika di lingkungan lokal (bukan di Cloud/Docker)
+    if not os.environ.get("SPACE_ID") and not os.environ.get("DOCKER_CONTAINER"):
+        threading.Thread(target=wait_and_open_browser, args=(port,), daemon=True).start()
+
     app.run(host="0.0.0.0", port=port, debug=False)

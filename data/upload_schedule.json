@@ -539,9 +539,9 @@
           "wib_time": "2026-10-17 12:00 WIB",
           "publish_at_utc": "2026-10-17T05:00:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kapasitas_Asli_Memori_Otakmu_Bikin_Melon_1791715638.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/VtEbLSEJRAA",
+          "uploaded_at": "2026-10-22 18:08:37",
           "error": null
         },
         {
@@ -551,9 +551,9 @@
           "wib_time": "2026-10-17 15:30 WIB",
           "publish_at_utc": "2026-10-17T08:30:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Awas_Kabel_Casan_Umum_Bisa_Rampok_HP_Kam_1791715699.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/RPKDirKUnpQ",
+          "uploaded_at": "2026-10-22 18:08:47",
           "error": null
         },
         {
@@ -563,9 +563,9 @@
           "wib_time": "2026-10-17 18:30 WIB",
           "publish_at_utc": "2026-10-17T11:30:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Bohong_Besar_Film_Sci-Fi_Terbongkar_Shor_1791715736.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/ouH41nS7C4c",
+          "uploaded_at": "2026-10-22 18:09:01",
           "error": null
         },
         {
@@ -575,13 +575,13 @@
           "wib_time": "2026-10-17 20:30 WIB",
           "publish_at_utc": "2026-10-17T13:30:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Aplikasi_Senter_Ngintip_Kamu_Diam-diam___1791715799.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/1fG9wiBQfpw",
+          "uploaded_at": "2026-10-22 18:09:14",
           "error": null
         }
       ],
-      "day_status": "in_progress"
+      "day_status": "completed"
     },
     {
       "day_number": 10,
@@ -594,9 +594,9 @@
           "wib_time": "2026-10-18 08:00 WIB",
           "publish_at_utc": "2026-10-18T01:00:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Game_Gratis_Minta_Akses_Mikrofon__1791715821.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/pBbzC814NMU",
+          "uploaded_at": "2026-10-22 18:09:27",
           "error": null
         },
         {
@@ -648,7 +648,7 @@
           "error": null
         }
       ],
-      "day_status": "ready"
+      "day_status": "in_progress"
     },
     {
       "day_number": 11,
