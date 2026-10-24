@@ -54,12 +54,21 @@ def run_batch_worker(total_to_generate: int = 150, animation_style: str = "Handc
     topics = load_topics()
     status_data = load_status()
     
-    status_data["status"] = "running"
-    status_data["total_target"] = min(total_to_generate, len(topics))
-    save_status(status_data)
-
+    total = min(total_to_generate, len(topics))
     start_idx = status_data.get("current_index", 0)
-    total = status_data["total_target"]
+
+    # Jika antrean sebelumnya sudah selesai (mencapai batas total), reset otomatis dari indeks 0
+    if start_idx >= total:
+        print(f"[*] Antrean sebelumnya telah mencapai batas ({start_idx}/{total}). Me-reset otomatis ke indeks 0...")
+        start_idx = 0
+        status_data["successful"] = 0
+        status_data["failed"] = 0
+        status_data["history"] = []
+
+    status_data["status"] = "running"
+    status_data["total_target"] = total
+    status_data["current_index"] = start_idx
+    save_status(status_data)
 
     print(f"\n=======================================================")
     print(f"🏭 PABRIK KONTEN 1 BULAN DIMULAI: Target {total} Video")
