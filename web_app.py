@@ -328,6 +328,24 @@ def get_random_topic():
             pass
     return jsonify({"topic": "Kenapa Paus Biru Punya Jantung Sebesar Mobil Golf?", "category": "Sains & Alam"})
 
+@app.route("/api/generate-ai-topic")
+def generate_ai_topic():
+    """Menghasilkan 1 topik baru segar dan unik menggunakan Gemini AI secara instan."""
+    niche = request.args.get("niche", "all")
+    try:
+        fresh_topics = ai_services.generate_fresh_topics(count=1, niche=niche)
+        if fresh_topics:
+            return jsonify({
+                "status": "success",
+                "topic": fresh_topics[0],
+                "source": "gemini-ai"
+            })
+    except Exception as e:
+        print(f"[!] Error generate_ai_topic: {e}")
+    # Fallback jika terjadi limit / offline
+    return get_random_topic()
+
+
 @app.route("/api/progress")
 def get_progress():
     with task_lock:
@@ -458,12 +476,14 @@ def start_batch():
     data = request.json or {}
     total = int(data.get("total", 150))
     style = data.get("animation_style", "3D Pixar Animation")
+    use_ai_topics = bool(data.get("use_ai_topics", True))
 
     if batch_engine.is_running():
         return jsonify({"status": "warning", "message": "Pabrik batch sudah berjalan!"})
 
-    batch_engine.start_batch_in_background(total=total, animation_style=style)
-    return jsonify({"status": "success", "message": f"Pabrik batch dimulai untuk {total} video!"})
+    batch_engine.start_batch_in_background(total=total, animation_style=style, use_ai_topics=use_ai_topics)
+    mode_text = "Topik Baru dari Gemini AI" if use_ai_topics else "Daftar Statis 150"
+    return jsonify({"status": "success", "message": f"Pabrik batch dimulai untuk {total} video (Mode: {mode_text})!"})
 
 @app.route("/api/batch-pause", methods=["POST"])
 def pause_batch():

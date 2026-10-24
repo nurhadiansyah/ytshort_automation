@@ -137,7 +137,34 @@ function initPresets() {
             } catch (err) {
                 console.error("Gagal mengambil random topic:", err);
             } finally {
-                btnRandom.textContent = "🎲 Acak Topik Viral";
+                btnRandom.textContent = "🎲 Acak Ide";
+            }
+        });
+    }
+
+    // Tombol Riset Topik Baru AI (Gemini)
+    const btnAiTopic = document.getElementById("btnAiTopic");
+    if (btnAiTopic) {
+        btnAiTopic.addEventListener("click", async () => {
+            const originalHTML = btnAiTopic.innerHTML;
+            btnAiTopic.innerHTML = "✨ Meriset Ide AI...";
+            btnAiTopic.disabled = true;
+            try {
+                const activeNiche = document.querySelector(".niche-pill.active")?.dataset.niche || "all";
+                const res = await fetch(`/api/generate-ai-topic?niche=${encodeURIComponent(activeNiche)}`);
+                const data = await res.json();
+                if (data.topic) {
+                    topicInput.value = data.topic;
+                    topicInput.focus();
+                    topicInput.style.transition = "all 0.3s ease";
+                    topicInput.style.boxShadow = "0 0 15px rgba(139, 92, 246, 0.8)";
+                    setTimeout(() => { topicInput.style.boxShadow = ""; }, 1200);
+                }
+            } catch (err) {
+                console.error("Gagal generate topik AI:", err);
+            } finally {
+                btnAiTopic.innerHTML = originalHTML;
+                btnAiTopic.disabled = false;
             }
         });
     }
@@ -711,13 +738,22 @@ function initBatchDashboard() {
 
     if (btnStart) {
         btnStart.addEventListener("click", async () => {
-            if (!confirm("Mulai otomatisasi pabrik video untuk 1 bulan penuh (150 video)? Proses akan berjalan di latar belakang (background).")) return;
+            const chkAi = document.getElementById("chkUseAiTopics");
+            const useAi = chkAi ? chkAi.checked : true;
+            const promptMsg = useAi
+                ? "Mulai otomatisasi pabrik video (150 Video) dengan TOPIK BARU DARI GEMINI AI di setiap video?\n\nSetiap video akan dibuat dari ide unik, segar, dan viral."
+                : "Mulai otomatisasi pabrik video untuk 1 bulan penuh (150 video daftar statis)?";
+
+            if (!confirm(`${promptMsg}\n\nProses akan berjalan otomatis di latar belakang.`)) return;
             try {
                 btnStart.disabled = true;
                 const res = await fetch("/api/batch-start", {
                     method: "POST",
                     headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify({ total: 150 })
+                    body: JSON.stringify({ 
+                        total: 150,
+                        use_ai_topics: useAi
+                    })
                 });
                 const data = await res.json();
                 alert(data.message);

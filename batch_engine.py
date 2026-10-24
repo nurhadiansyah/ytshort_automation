@@ -50,11 +50,16 @@ def save_status(data: dict):
         with open(BATCH_STATUS_FILE, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
 
-def run_batch_worker(total_to_generate: int = 150, animation_style: str = "Handcrafted Claymation Animation"):
-    topics = load_topics()
+def run_batch_worker(total_to_generate: int = 150, animation_style: str = "Handcrafted Claymation Animation", use_ai_topics: bool = True):
+    import ai_services
+    static_topics = []
+    try:
+        static_topics = load_topics()
+    except Exception:
+        static_topics = []
+
     status_data = load_status()
-    
-    total = min(total_to_generate, len(topics))
+    total = total_to_generate
     start_idx = status_data.get("current_index", 0)
 
     # Jika antrean sebelumnya sudah selesai (mencapai batas total), reset otomatis dari indeks 0
@@ -73,9 +78,14 @@ def run_batch_worker(total_to_generate: int = 150, animation_style: str = "Handc
     print(f"\n=======================================================")
     print(f"🏭 PABRIK KONTEN 1 BULAN DIMULAI: Target {total} Video")
     print(f"📌 Mulai dari antrean indeks: {start_idx + 1}/{total}")
+    print(f"🤖 Mode Topik Baru: {'✨ Selalu Baru dari Gemini AI' if use_ai_topics else 'Daftar Statis 150'}")
     print(f"=======================================================\n")
 
     stop_flag.clear()
+
+    # Kumpulkan riwayat topik yang sudah pernah dibuat agar tidak mengulang topik yang sama
+    history_topics = [h.get("topic") for h in status_data.get("history", []) if h.get("topic")]
+    ai_topic_cache = []
 
     for idx in range(start_idx, total):
         if stop_flag.is_set():
@@ -85,7 +95,27 @@ def run_batch_worker(total_to_generate: int = 150, animation_style: str = "Handc
             save_status(status_data)
             return
 
-        topic = topics[idx]
+        topic = None
+        if use_ai_topics:
+            if not ai_topic_cache:
+                try:
+                    print(f"[*] [AI Research] Meminta 5 ide topik Shorts baru & viral dari Gemini AI...")
+                    fresh_batch = ai_services.generate_fresh_topics(count=5, exclude_topics=history_topics)
+                    if fresh_batch:
+                        ai_topic_cache.extend(fresh_batch)
+                except Exception as ex:
+                    print(f"[!] Gagal meminta topik AI ({ex}), menggunakan daftar cadangan...")
+            
+            if ai_topic_cache:
+                topic = ai_topic_cache.pop(0)
+
+        if not topic:
+            if static_topics:
+                topic = static_topics[idx % len(static_topics)]
+            else:
+                topic = "Fakta Menakjubkan Alam Semesta"
+
+        history_topics.append(topic)
         print(f"\n[{idx + 1}/{total}] 🎬 Memproduksi Video: '{topic}'...")
 
         status_data = load_status()
@@ -150,11 +180,11 @@ def is_running() -> bool:
     global active_thread
     return active_thread is not None and active_thread.is_alive()
 
-def start_batch_in_background(total: int = 150, animation_style: str = "3D Pixar Animation"):
+def start_batch_in_background(total: int = 150, animation_style: str = "3D Pixar Animation", use_ai_topics: bool = True):
     global active_thread
     if is_running():
         return active_thread
-    active_thread = threading.Thread(target=run_batch_worker, args=(total, animation_style), daemon=True)
+    active_thread = threading.Thread(target=run_batch_worker, args=(total, animation_style, use_ai_topics), daemon=True)
     active_thread.start()
     return active_thread
 

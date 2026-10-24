@@ -606,9 +606,9 @@
           "wib_time": "2026-10-18 12:00 WIB",
           "publish_at_utc": "2026-10-18T05:00:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Lukisan_Berusia_36000_Tahun_Bikin_Picass_1791715909.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/PMAR2h0hxHQ",
+          "uploaded_at": "2026-10-24 18:46:26",
           "error": null
         },
         {
@@ -618,9 +618,9 @@
           "wib_time": "2026-10-18 15:30 WIB",
           "publish_at_utc": "2026-10-18T08:30:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Kenapa_Lagu_Nyangkut_Terus_di_Kepala_Mis_1791715999.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/EhRCD65BnFU",
+          "uploaded_at": "2026-10-24 18:46:38",
           "error": null
         },
         {
@@ -630,9 +630,9 @@
           "wib_time": "2026-10-18 18:30 WIB",
           "publish_at_utc": "2026-10-18T11:30:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Tubuhmu_Mendadak_Korslet_Ini_Fakta_Ceguk_1791716081.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/bwq4EeqLLoQ",
+          "uploaded_at": "2026-10-24 18:46:47",
           "error": null
         },
         {
@@ -642,13 +642,13 @@
           "wib_time": "2026-10-18 20:30 WIB",
           "publish_at_utc": "2026-10-18T13:30:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Danau_Paling_Berbahaya_di_Dunia_297_Peti_1791716224.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/WdS12G5D3W4",
+          "uploaded_at": "2026-10-24 18:46:57",
           "error": null
         }
       ],
-      "day_status": "in_progress"
+      "day_status": "completed"
     },
     {
       "day_number": 11,
@@ -661,9 +661,9 @@
           "wib_time": "2026-10-19 08:00 WIB",
           "publish_at_utc": "2026-10-19T01:00:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Password_Kamu_Udah_Dijual_di_Pasar_Gelap_1791716322.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/-qXsiq7poqQ",
+          "uploaded_at": "2026-10-24 18:47:06",
           "error": null
         },
         {
@@ -715,7 +715,7 @@
           "error": null
         }
       ],
-      "day_status": "ready"
+      "day_status": "in_progress"
     },
     {
       "day_number": 12,

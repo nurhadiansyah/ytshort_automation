@@ -486,3 +486,77 @@ def generate_image(prompt: str, output_path: str, visual_theme: str = "") -> str
     print("[*] Menggunakan ilustrasi visual Master Handcrafted Claymation...")
     create_emergency_backdrop(output_file, prompt)
     return str(output_file)
+
+def generate_fresh_topics(count: int = 5, niche: str = None, exclude_topics: list = None) -> list[str]:
+    """
+    Membuat daftar topik video Shorts yang 100% BARU, UNIK, dan VIRAL menggunakan Gemini AI.
+    Menghindari topik-topik lama yang sudah pernah dibuat.
+    """
+    client = get_client()
+    niche_clause = f"Kategori khusus: {niche}." if niche and niche != "all" else "Kategori bebas lintas tema: Sains aneh, misteri alam semesta, psikologi manusia, keajaiban laut dalam, fakta hewan ajaib, sejarah tersembunyi, kejahatan siber & AI, fakta tubuh manusia."
+    
+    avoid_clause = ""
+    if exclude_topics:
+        samples = [str(t) for t in exclude_topics[-40:] if t]
+        if samples:
+            avoid_clause = "HINDARI topik yang mirip atau sudah pernah dibahas berikut:\n- " + "\n- ".join(samples)
+
+    prompt = f"""
+Kamu adalah pakar riset topik YouTube Shorts viral edukasi dengan jutaan penonton.
+Tugasmu: Buatkan {count} ide TOPIK SHORTS YANG 100% BARU, MENGEJUTKAN, DAN MEMICU RASA PENASARAN TINGGI (High-Retention Curiosity Gap).
+
+{niche_clause}
+
+{avoid_clause}
+
+KRITERIA TOPIK VIRAL:
+1. Menyerang rasa penasaran langsung (Curiosity Gap) atau paradoks yang bikin orang bertanya 'Kok bisa?!'
+2. Format judul hook yang terbukti sukses, contohnya:
+   - "Kenapa [Hal aneh]..."
+   - "Apa yang Terjadi Jika [Skenario gila]..."
+   - "Misteri Rahasia di Balik [Fenomena]..."
+   - "Fakta Gila/Mencengangkan Tentang [Objek]..."
+   - "Alasan Ilmiah Kenapa [Kebiasaan/Gejala manusia]..."
+3. Bahasa Indonesia yang santai, lugas, dan menggoda klik (bukan judul skripsi kaku).
+4. Setiap topik harus jelas dan bisa langsung dijadikan 1 video utuh berdurasi 30-45 detik.
+
+FORMAT OUTPUT WAJIB:
+JSON Array of Strings murni:
+[
+  "Topik 1 yang bombastis dan bikin penasaran",
+  "Topik 2 ...",
+  ...
+]
+"""
+    candidate_models = [config.TEXT_MODEL, "gemini-3.8-flash", "gemini-3-flash", "gemini-flash-latest"]
+    for model_name in candidate_models:
+        try:
+            resp = client.models.generate_content(
+                model=model_name,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json"
+                )
+            )
+            if resp and resp.text:
+                topics = json.loads(resp.text)
+                if isinstance(topics, list) and len(topics) > 0:
+                    clean = [str(t).strip() for t in topics if t]
+                    if clean:
+                        return clean[:count]
+        except Exception as e:
+            print(f"[!] Gagal generate topik via {model_name}: {e}")
+            continue
+
+    # Fallback jika terjadi kendala kuota / jaringan
+    fallback_pool = [
+        "Kenapa Air Laut yang Menguap Jadi Awan Hujan Air Tawar, Bukan Air Asin?",
+        "Misteri Pohon Berjalan (Socratea Exorrhiza): Tumbuhan yang Bisa Pindah Tempat Sendiri",
+        "Apa yang Terjadi pada Otak Manusia Jika Dibiarkan Melamun Tanpa Stimulus?",
+        "Kenapa Semut Tidak Pernah Mati Jatuh dari Ketinggian Berapa Pun?",
+        "Suara Paling Menakutkan di Alam Semesta: Rekaman Audio Lubang Hitam Perseus",
+        "Kenapa Kucing Selalu Jatuh Mendarat dengan Kaki Terlebih Dahulu? Fisika Cat-Righting"
+    ]
+    random.shuffle(fallback_pool)
+    return fallback_pool[:count]
+
