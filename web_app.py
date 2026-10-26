@@ -271,6 +271,47 @@ def trigger_youtube_auth():
     except Exception as e:
         return jsonify({"status": "error", "message": str(e)}), 500
 
+@app.route("/api/youtube/import-token", methods=["POST"])
+def import_youtube_token():
+    try:
+        data = request.json or {}
+        token_content = data.get("token_content", "").strip()
+        if not token_content:
+            return jsonify({"status": "error", "message": "Konten token JSON tidak boleh kosong."}), 400
+        
+        # Validasi format JSON
+        try:
+            parsed = json.loads(token_content)
+            if not isinstance(parsed, dict) or ("token" not in parsed and "refresh_token" not in parsed):
+                return jsonify({"status": "error", "message": "Format token.json tidak valid (harus berisi field 'token' atau 'refresh_token')."}), 400
+        except Exception as je:
+            return jsonify({"status": "error", "message": f"Format JSON tidak valid: {je}"}), 400
+
+        token_file = config.BASE_DIR / "token.json"
+        with open(token_file, "w", encoding="utf-8") as f:
+            f.write(token_content)
+
+        # Tes koneksi dengan token baru
+        service = youtube_uploader.get_authenticated_service()
+        req = service.channels().list(part="snippet,statistics", mine=True)
+        res = req.execute()
+        title = "Akun YouTube"
+        sub_count = "0"
+        vid_count = "0"
+        if res.get("items"):
+            item = res["items"][0]
+            title = item.get("snippet", {}).get("title", title)
+            sub_count = item.get("statistics", {}).get("subscriberCount", "0")
+            vid_count = item.get("statistics", {}).get("videoCount", "0")
+
+        return jsonify({
+            "status": "success",
+            "message": f"Token YouTube berhasil diimpor! Terhubung ke channel: '{title}' ({sub_count} subs, {vid_count} video).",
+            "channel_title": title
+        })
+    except Exception as e:
+        return jsonify({"status": "error", "message": f"Gagal mengimpor token: {e}"}), 500
+
 @app.route("/api/start-generate", methods=["POST"])
 def start_generate():
     global current_task

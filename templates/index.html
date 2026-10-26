@@ -559,6 +559,46 @@
         </div>
     </div>
 
+    <!-- Modal Sambungkan / Impor Token YouTube -->
+    <div id="ytAuthModal" class="modal-overlay hidden">
+        <div class="modal-card">
+            <h3>🔐 Sambungkan Akun YouTube Data API</h3>
+            <p class="text-muted" style="font-size: 0.85rem; margin-top: 4px;">
+                Pilih metode login akun YouTube untuk channel Anda.
+            </p>
+            
+            <div style="display: flex; gap: 8px; margin: 16px 0;">
+                <button type="button" id="tabYtBrowser" class="btn-action active" style="flex: 1; padding: 8px 12px; font-size: 0.82rem;">🌐 Login Browser (PC)</button>
+                <button type="button" id="tabYtToken" class="btn-action" style="flex: 1; padding: 8px 12px; font-size: 0.82rem;">📋 Tempel token.json (Codespaces/Cloud)</button>
+            </div>
+
+            <!-- Panel 1: Browser OAuth -->
+            <div id="ytBrowserPanel">
+                <p style="font-size: 0.85rem; color: #cbd5e1; line-height: 1.5;">
+                    Klik tombol di bawah untuk membuka halaman otorisasi Google di browser lokal komputer Anda (memerlukan <code>client_secret.json</code>).
+                </p>
+                <button id="btnTriggerBrowserAuth" class="btn-primary" style="width: 100%; margin-top: 14px;">
+                    🌐 Buka Browser & Otorisasi
+                </button>
+            </div>
+
+            <!-- Panel 2: Token Paste -->
+            <div id="ytTokenPanel" class="hidden">
+                <p style="font-size: 0.82rem; color: #cbd5e1; line-height: 1.4; margin-bottom: 8px;">
+                    Jika menjalankan di <b>GitHub Codespaces / VPS Cloud</b> di mana browser tidak bisa terbuka, tempelkan isi teks file <code>token.json</code> dari PC lokal Anda ke bawah ini:
+                </p>
+                <textarea id="tokenJsonInput" rows="6" placeholder='{"token": "ya29...", "refresh_token": "...", ...}' style="width: 100%; font-family: monospace; font-size: 0.75rem; padding: 8px; background: rgba(15,23,42,0.8); border: 1px solid rgba(255,255,255,0.2); border-radius: 8px; color: #6ee7b7; box-sizing: border-box;"></textarea>
+                <button id="btnSaveImportedToken" class="btn-primary" style="width: 100%; margin-top: 10px;">
+                    💾 Simpan & Verifikasi Token
+                </button>
+            </div>
+
+            <div class="modal-actions" style="margin-top: 18px;">
+                <button id="btnCancelYtModal" class="btn-secondary">Tutup</button>
+            </div>
+        </div>
+    </div>
+
     <script src="/static/js/app.js"></script>
 </body>
 </html>

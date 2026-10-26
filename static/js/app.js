@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
     initGenerateHandler();
     initGallery();
     initModal();
+    initYtAuthModal();
     initTabs();
     initBatchDashboard();
 });
@@ -64,42 +65,8 @@ async function initSystemStatus() {
         }
 
         // Event klik untuk login YouTube
-        bgYt.onclick = async () => {
-            if (!data.youtube_ready) {
-                alert("File 'client_secret.json' belum ditemukan di folder proyek. Pastikan file JSON kredensial sudah ada.");
-                return;
-            }
-
-            let force = false;
-            if (data.youtube_authenticated) {
-                if (!confirm("Akun YouTube Anda saat ini sudah terhubung.\n\nApakah Anda ingin login ulang atau mengganti channel YouTube?")) {
-                    return;
-                }
-                force = true;
-            }
-
-            ytText.textContent = "Membuka Browser...";
-            bgYt.style.opacity = "0.7";
-            try {
-                const aRes = await fetch("/api/youtube-auth", {
-                    method: "POST",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify({ force: force })
-                });
-                const aData = await aRes.json();
-                if (aData.status === "success") {
-                    alert(`🎉 Berhasil terhubung dengan YouTube!\nChannel: ${aData.channel_title}`);
-                    initSystemStatus();
-                } else {
-                    alert("Gagal login YouTube: " + aData.message);
-                    initSystemStatus();
-                }
-            } catch (err) {
-                alert("Error otorisasi YouTube: " + err.message);
-                initSystemStatus();
-            } finally {
-                bgYt.style.opacity = "1";
-            }
+        bgYt.onclick = () => {
+            openYtAuthModal();
         };
     } catch (err) {
         console.error("Gagal memeriksa status sistem:", err);
@@ -711,28 +678,8 @@ function initBatchDashboard() {
     const btnRefreshSchedule = document.getElementById("btnRefreshSchedule");
 
     if (btnConnectYt) {
-        btnConnectYt.addEventListener("click", async () => {
-            btnConnectYt.disabled = true;
-            btnConnectYt.innerHTML = `<span class="btn-icon">⏳</span><span>Membuka Browser Login...</span>`;
-            try {
-                const aRes = await fetch("/api/youtube-auth", {
-                    method: "POST",
-                    headers: { "Content-Type": "application/json" },
-                    body: JSON.stringify({ force: true })
-                });
-                const aData = await aRes.json();
-                if (aData.status === "success") {
-                    alert(`🎉 Berhasil terhubung dengan YouTube!\nChannel: ${aData.channel_title}`);
-                    initSystemStatus();
-                } else {
-                    alert("Gagal login YouTube: " + aData.message);
-                }
-            } catch (err) {
-                alert("Error otorisasi YouTube: " + err.message);
-            } finally {
-                btnConnectYt.disabled = false;
-                btnConnectYt.innerHTML = `<span class="btn-icon">🔑</span><span>Hubungkan Akun YouTube</span>`;
-            }
+        btnConnectYt.addEventListener("click", () => {
+            openYtAuthModal();
         });
     }
 
@@ -1098,6 +1045,107 @@ async function uploadScheduledSlotDirect(videoIndex, topic) {
         fetchBatchStatus();
     } catch (err) {
         alert("Error jaringan: " + err.message);
+    }
+}
+
+// 9. Modal Autentikasi YouTube (Browser Lokal & Import Token Cloud/Codespaces)
+function initYtAuthModal() {
+    const modal = document.getElementById("ytAuthModal");
+    const btnCancel = document.getElementById("btnCancelYtModal");
+    const tabBrowser = document.getElementById("tabYtBrowser");
+    const tabToken = document.getElementById("tabYtToken");
+    const panelBrowser = document.getElementById("ytBrowserPanel");
+    const panelToken = document.getElementById("ytTokenPanel");
+    const btnTriggerBrowser = document.getElementById("btnTriggerBrowserAuth");
+    const btnSaveToken = document.getElementById("btnSaveImportedToken");
+    const tokenInput = document.getElementById("tokenJsonInput");
+
+    if (!modal) return;
+
+    if (btnCancel) {
+        btnCancel.addEventListener("click", () => modal.classList.add("hidden"));
+    }
+
+    if (tabBrowser && tabToken && panelBrowser && panelToken) {
+        tabBrowser.addEventListener("click", () => {
+            tabBrowser.classList.add("active");
+            tabToken.classList.remove("active");
+            panelBrowser.classList.remove("hidden");
+            panelToken.classList.add("hidden");
+        });
+        tabToken.addEventListener("click", () => {
+            tabToken.classList.add("active");
+            tabBrowser.classList.remove("active");
+            panelToken.classList.remove("hidden");
+            panelBrowser.classList.add("hidden");
+        });
+    }
+
+    if (btnTriggerBrowser) {
+        btnTriggerBrowser.addEventListener("click", async () => {
+            btnTriggerBrowser.disabled = true;
+            btnTriggerBrowser.textContent = "Membuka Browser Otorisasi...";
+            try {
+                const res = await fetch("/api/youtube-auth", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ force: true })
+                });
+                const data = await res.json();
+                if (data.status === "success") {
+                    alert(`🎉 Berhasil terhubung dengan YouTube!\nChannel: ${data.channel_title}`);
+                    modal.classList.add("hidden");
+                    initSystemStatus();
+                } else {
+                    alert("Gagal login YouTube: " + data.message);
+                }
+            } catch (err) {
+                alert("Error otorisasi YouTube: " + err.message);
+            } finally {
+                btnTriggerBrowser.disabled = false;
+                btnTriggerBrowser.textContent = "🌐 Buka Browser & Otorisasi";
+            }
+        });
+    }
+
+    if (btnSaveToken && tokenInput) {
+        btnSaveToken.addEventListener("click", async () => {
+            const raw = tokenInput.value.trim();
+            if (!raw) {
+                alert("Silakan tempel isi JSON token.json terlebih dahulu.");
+                return;
+            }
+            btnSaveToken.disabled = true;
+            btnSaveToken.textContent = "Menyimpan & Memverifikasi...";
+            try {
+                const res = await fetch("/api/youtube/import-token", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ token_content: raw })
+                });
+                const data = await res.json();
+                if (res.ok && data.status === "success") {
+                    alert(`🎉 ${data.message}`);
+                    modal.classList.add("hidden");
+                    tokenInput.value = "";
+                    initSystemStatus();
+                } else {
+                    alert("Gagal mengimpor token: " + data.message);
+                }
+            } catch (err) {
+                alert("Error koneksi: " + err.message);
+            } finally {
+                btnSaveToken.disabled = false;
+                btnSaveToken.textContent = "💾 Simpan & Verifikasi Token";
+            }
+        });
+    }
+}
+
+function openYtAuthModal() {
+    const modal = document.getElementById("ytAuthModal");
+    if (modal) {
+        modal.classList.remove("hidden");
     }
 }
 
