@@ -673,9 +673,9 @@
           "wib_time": "2026-10-27 08:00 WIB",
           "publish_at_utc": "2026-10-27T01:00:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Pernah_Ingin_Melompat_Dari_Jurang_Ini_Ra_1792978685.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/h7E00I9ab5Y",
+          "uploaded_at": "2026-10-26 11:44:58",
           "error": null
         },
         {
@@ -685,9 +685,9 @@
           "wib_time": "2026-10-27 12:00 WIB",
           "publish_at_utc": "2026-10-27T05:00:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Apa_Kata_Sains_Kalau_Laut_Jadi_Air_Tawar_1792979023.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/8eSLmHqsmPA",
+          "uploaded_at": "2026-10-26 11:45:04",
           "error": null
         },
         {
@@ -697,9 +697,9 @@
           "wib_time": "2026-10-27 15:30 WIB",
           "publish_at_utc": "2026-10-27T08:30:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Misteri_Kota_Yang_Seluruh_Warganya_Tidur_1792979363.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/Um5VXpLChYY",
+          "uploaded_at": "2026-10-26 11:45:11",
           "error": null
         },
         {
@@ -709,9 +709,9 @@
           "wib_time": "2026-10-27 18:30 WIB",
           "publish_at_utc": "2026-10-27T11:30:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_Cacing_Purba_48000_Tahun_Bangkit_Lagi_Sh_1792979665.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/OLBvXTMoj8o",
+          "uploaded_at": "2026-10-26 11:45:18",
           "error": null
         },
         {
@@ -721,13 +721,13 @@
           "wib_time": "2026-10-27 20:30 WIB",
           "publish_at_utc": "2026-10-27T13:30:00.000Z",
           "video_path": "F:\\gabut\\short_automation\\output\\Animasi_HP_Bisa_Baca_Pikiran_Rahasia_Iklan_Gaib__1792980010.mp4",
-          "status": "produced",
-          "youtube_url": null,
-          "uploaded_at": null,
+          "status": "uploaded",
+          "youtube_url": "https://www.youtube.com/shorts/wLMUqM7dHgM",
+          "uploaded_at": "2026-10-26 11:45:26",
           "error": null
         }
       ],
-      "day_status": "ready"
+      "day_status": "completed"
     },
     {
       "day_number": 12,
